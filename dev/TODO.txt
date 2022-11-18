@@ -1,0 +1,21 @@
+
+projects.html
+- plastination image
+- update description 3D-EM and PLI
+- fix wowslider on firefox
+- add datasets
+
+publications.html
+- add link to Mollink2015
+- upload postprints of Mollink2015, vanBaarsen2015, Arnts2014, vanBaarsen2013, Zerbi2012
+- upload book chapter postprint
+- upload posters
+- add datasets
+
+phdthesis.html
+- add remaining chapters
+
+contact.html
+- update cv
+
+data.html

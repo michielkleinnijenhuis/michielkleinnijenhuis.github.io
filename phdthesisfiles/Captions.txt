@@ -1,0 +1,53 @@
+Figure 4.S1
+Animated GIF of coregistered T1 and color-coded FA with and without constrained unwarping of the DWI in three orthogonal slices.
+
+Figure 4.S2
+Animated GIF of coregistered T1, unwarped color-coded FA, GE magnitude and edge-enhanced GE magnitude (EE) in three orthogonal slices. 
+
+Figure 4.S3
+Visualization of the STIFT algorithm. 1) the original tracking direction PDDWI derived from the peak in the diffusion profile; 2) the first eigenvector of the structure tensor scaled by its eigenvalue ?n; 3) the first eigenvector of the structure tensor PDGE; 4) cross product CP1=PDDWI ◊ PDGE rotates the vector in the plane normal to PDGE; 5) cross product CP2=PDGE ◊ CP1 projects PDGE onto the normal plane through PDDWI; 6) CP2 is rescaled to the size of the first eigenvalue of the structure tensor ?n and PDDWI is scaled by (1- ?n); 7) The scaled vectors are added to obtain the adapted tracking direction PDSTIFT (8). 
+
+Figure 5.S1
+Cortical profiles of diffusion metrics. Separate pages show results for Samples A and B. On each page, the upper panel shows profiles from V1; the lower panel shows the profiles fromV2. Panels are dived in an upper and lower row showing FA (a, c) and diffusivity (b, d) profiles, respectively (red traces). MGE profiles (blue traces) are included in every graph for reference of cortical architecture. Dotted lines indicate the standard deviation over the MGE, FA and MD profiles. In the diffusivity graphs (b, d) the grey dash-dotted traces represent the diffusion tensor eigenvalues L1–L3. The leftmost graphs are scaled identically for each panel to facilitate comparison between samples and V1/V2. The location of the GM–WM boundary is indicated by the vertical dash-dotted line. The graphs in the middle column have the same scaling on the Y-axis, but various offsets, in order to visualize the relevant parts of the curves. The X-axis has been scaled such that the full axis equals the cortical depth from pial surface (left) to GM–WM boundary (right). The right column shows sampling regions and the images sampled. (h) fibre tracts from the pial surface of a patch V1 cortex (red seed region; green streamlines) and a patch of V2 cortex (yellow seed region; red streamlines) overlaid on the MGE image. For each region, the FA map (f, i) and MD map (g, j) are shown next to their graph complemented with the DEC map overlaid with FODs (e, k) in the right upper and lower corner. SOG = Stria of Gennari. In this supplementary figure, additional traces have been included to show the difference between the method of extracting the cortical profiles along the streamlines and extracting the cortical profiles perpendicular to the cortical surface. From the seed regions, surface normals were determined in the MGE image and sampled along a depth of 3 mm with a sampling distance of .03 mm. For the ‘cortex normals’ method the MGE is represented by the black traces, the FA and MD are represented by the yellow traces and L1–L3 by the dark grey dash-dotted traces. Not surprisingly, the resulting profiles were very similar to the profiles obtained by sampling along the streamlines, because the FODs are mostly perpendicular to the cortex. We find that the peaks of the curve within the cortex only differ somewhat in amplitude with the peaks being a bit more pronounced for the ‘cortex normals’ method. In the sampled region of sample B–V1 we see a small shift in the cortical depth at which the peaks occur, because the orientation is not exactly perpendicular to the cortical surface. Large differences start to occur when leaving the cortex as the fibres bend into the WM and sample completely different voxels. The standard deviation over the profiles is lower in the case of the ‘cortex normals’ method, presumably because of slight bending of the fibre tracks within the cortex.
+
+Figure 5.S2
+Constrained Spherical Deconvolution FODs, Q-ball and Persistent Angular Structure functions for Sample A-V1 (a–c), Sample A-V2 (d–f), Sample B-V1 (g–i) and Sample B-V2 (j–l). CSD reconstruction with spherical harmonic order 8, estimating the fibre response function from the (∼7000) voxels with FA > .1 within a mask with high SNR and excluding pial boundary voxels. Q-ball (spherical harmonic order 8) and PAS reconstruction (PAS function 1.1) were performed using the Camino toolkit.
+
+Figure 6.S1
+Signal decay with b-value of sample A. Images show the normalized means of the seven shells (the b-value is printed in the figure). The graphs show the signal decay for a gray matter voxel (in blue; corresponding to the location of the blue dot in the upper left image) and a white matter voxel (in red; corresponding to the location of the red dot). Gray-white matter contrast is reversed between b=4000 and b=8000 s⋅mm2: the decay is stronger for gray matter. Diffusion anisotropy is larger for the white matter as compared to the gray matter, evident in the larger within-shell variance.
+
+Figure 6.S2
+Volume fractions for the ex vivo NODDI model for samples A and B. Note the difference in scale bars for images in the top and bottom rows. ficvf=fibre intracellular volume fraction; ecvf=extracellular volume fraction; irfrac=isotropic restricted fraction; fiso=isotropic free fraction.
+
+Figure 7.S1
+Spatial maps of the medial wall of the left hemisphere for white matter surface wm-6. Rows show different subjects and the average over subjects projected onto FreeSurfer’s fsaverage. Columns from left to right: the gyral/sulcal pattern (Curv), the mean diffusivity (MD in 10<sup>6</sup> mm<sup>2</sup>s<sup>-1</sup>), the fractional anisotropy (FA), the radiality, and the T1 map (in ms).
+
+Figure 7.S2
+Spatial maps of the medial wall of the left hemisphere for white matter surface wm-3. Rows show different subjects and the average over subjects projected onto FreeSurfer’s fsaverage. Columns from left to right: the gyral/sulcal pattern (Curv), the mean diffusivity (MD in 10<sup>6</sup> mm<sup>2</sup>s<sup>-1</sup>), the fractional anisotropy (FA), the radiality, and the T1 map (in ms).
+
+Figure 7.S3
+Spatial maps of the medial wall of the left hemisphere for the grey-white matter boundary (gm-wm). Rows show different subjects and the average over subjects projected onto FreeSurfer’s fsaverage. Columns from left to right: the gyral/sulcal pattern (Curv), the mean diffusivity (MD in 10<sup>6</sup> mm<sup>2</sup>s<sup>-1</sup>), the fractional anisotropy (FA), the radiality, and the T1 map (in ms).
+
+Figure 7.S4
+Spatial maps of the medial wall of the left hemisphere for grey matter surface gm-3. Rows show different subjects and the average over subjects projected onto FreeSurfer’s fsaverage. Columns from left to right: the gyral/sulcal pattern (Curv), the mean diffusivity (MD in 10<sup>6</sup> mm<sup>2</sup>s<sup>-1</sup>), the fractional anisotropy (FA), the radiality, and the T1 map (in ms).
+
+Figure 7.S5
+Spatial maps of the medial wall of the left hemisphere for the pial surface (pial). Rows show different subjects and the average over subjects projected onto FreeSurfer’s fsaverage. Columns from left to right: the gyral/sulcal pattern (Curv), the mean diffusivity (MD in 10<sup>6</sup> mm<sup>2</sup>s<sup>-1</sup>), the fractional anisotropy (FA), the radiality, and the T1 map (in ms).
+
+Figure 7.S6
+Spatial maps of the medial wall of the left hemisphere for subject1 for surfaces [pial, gm-3, gm-wm, wm-3, wm-6] in the different rows. Columns from left to right: the gyral sulcal pattern (Curv), the mean diffusivity (MD in 10<sup>6</sup> mm<sup>2</sup>s<sup>-1</sup>), the fractional anisotropy (FA), the radiality, and the T1 map (in ms).
+
+Figure 7.S7
+Spatial maps of the medial wall of the left hemisphere for subject2 for surfaces [pial, gm-3, gm-wm, wm-3, wm-6] in the different rows. Columns from left to right: the gyral sulcal pattern (Curv), the mean diffusivity (MD in 10<sup>6</sup> mm<sup>2</sup>s<sup>-1</sup>), the fractional anisotropy (FA), the radiality, and the T1 map (in ms).
+
+Figure 7.S8
+Spatial maps of the medial wall of the left hemisphere for subject3 for surfaces [pial, gm-3, gm-wm, wm-3, wm-6] in the different rows. Columns from left to right: the gyral sulcal pattern (Curv), the mean diffusivity (MD in 10<sup>6</sup> mm<sup>2</sup>s<sup>-1</sup>), the fractional anisotropy (FA), the radiality, and the T1 map (in ms).
+
+Figure 7.S9
+Spatial maps of the medial wall of the left hemisphere for subject4 for surfaces [pial, gm-3, gm-wm, wm-3, wm-6] in the different rows. Columns from left to right: the gyral sulcal pattern (Curv), the mean diffusivity (MD in 10<sup>6</sup> mm<sup>2</sup>s<sup>-1</sup>), the fractional anisotropy (FA), the radiality, and the T1 map (in ms).
+
+Figure 7.S10
+Spatial maps of the medial wall of the left hemisphere for subject5 for surfaces [pial, gm-3, gm-wm, wm-3, wm-6] in the different rows. Columns from left to right: the gyral sulcal pattern (Curv), the mean diffusivity (MD in 10<sup>6</sup> mm<sup>2</sup>s<sup>-1</sup>), the fractional anisotropy (FA), the radiality, and the T1 map (in ms).
+
+Figure 7.S11
+Average spatial maps of the medial wall of the left hemisphere projected onto the fsaverage subject [pial, gm-3, gm-wm, wm-3, wm-6] in the different rows. Columns from left to right: the gyral sulcal pattern (Curv), the mean diffusivity (MD in 10<sup>6</sup> mm<sup>2</sup>s<sup>-1</sup>), the fractional anisotropy (FA), the radiality, and the T1 map (in ms).

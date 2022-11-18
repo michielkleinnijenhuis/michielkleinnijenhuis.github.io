@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7.1</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>true</FullScreen>
+            <GalleryName>ws0</GalleryName>
+            <GallerySuffix>2</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>basic</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>/Applications/WOWSlider.app/Contents/Resources/templates/backgnd/chrome/</ImageTemplate>
+            <ImageTemplateName>Chrome</ImageTemplateName>
+            <ImageWidth>600</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>/Users/michielk/workspace/www/dev/gallery_ws/gallery.html</PublishFileName>
+            <PublishIndex>gallery.html</PublishIndex>
+            <PublishPath>/Users/michielk/workspace/www/dev/gallery_ws</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>7</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#000000</TemplateColor>
+            <TemplateFont>Tahoma</TemplateFont>
+            <TemplateName>chrome</TemplateName>
+            <ThumbAlign>left</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/2DEM_001.jpg</url>
+                <title>axons in shape</title>
+                <filesize>706020</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/7Tss.jpg</url>
+                <title>corpus callosum in red</title>
+                <filesize>1355248</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/0250_m000_seg.fw.png</url>
+                <title>fibre segmentation</title>
+                <filesize>4747459</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/brain_rainbow2_crop.jpg</url>
+                <title>rainbow brain</title>
+                <filesize>42997</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/fullmodel0001_exp.jpg</url>
+                <title>bending bundle</title>
+                <filesize>798788</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/stack+particles_crop.jpg</url>
+                <title>particle cube</title>
+                <filesize>280774</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/tracts_crop.jpg</url>
+                <title>tracts</title>
+                <filesize>49782</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

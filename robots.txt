@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /MendeleyLibrary/published/
+Disallow: /bak/
+Disallow: /dev/
+

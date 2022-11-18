@@ -1,0 +1,377 @@
+1 	Bianconi E, Piovesan A, Facchin F, Beraudi A, Casadei R, Frabetti F, Vitale L, Pelleri MC, Tassani S, Piva F, Perez-Amodio S, Strippoli P, Canaider S. An estimation of the number of cells in the human body. Annals of Human Biology. 2013; 4460: 1–9.
+2 	Wang L, Xu Y, Di Z, Roehner BM. How does group interaction and its severance affect life expectancy? 2013. http://arxiv.org/abs/1304.2935 (accessed 10 Oct2013).
+3 	Sporns O, Tononi G, Kötter R. The human connectome: A structural description of the human brain. PLoS Computational Biology. 2005; 1: e42.
+4 	De Reus MA, van den Heuvel MP. The parcellation-based connectome: Limitations and extensions. NeuroImage. 2013; 80: 397–404.
+5 	Catani M, Thiebaut de Schotten M, Slater D, Dell’acqua F. Connectomic approaches before the connectome. NeuroImage. 2013; 80: 2–13.
+6 	Le Bihan D, Breton E, Lallemand D, Grenier P, Cabanis E, Laval-Jeantet M. MR imaging of intravoxel incoherent motions: application to diffusion and perfusion in neurologic disorders. Radiology. 1986; 161: 401–7.
+7 	Moseley ME, Cohen Y, Kucharczyk J, Mintorovitch J, Asgari HS, Wendland MF, Tsuruda J, Norman D. Diffusion-weighted MR imaging of anisotropic water diffusion in cat central nervous system. Radiology. 1990; 176: 439–45.
+8 	Scholz J, Klein MC, Behrens TEJ, Johansen-Berg H. Training induces changes in white-matter architecture. Nature Neuroscience. 2009; 12: 1370–1.
+9 	Kubicki M, Park H, Westin CF, Nestor PG, Mulkern R V, Maier SE, Niznikiewicz M, Connor EE, Levitt JJ, Frumin M, Kikinis R, Jolesz FA, McCarley RW, Shenton ME. DTI and MTR abnormalities in schizophrenia: analysis of white matter integrity. NeuroImage. 2005; 26: 1109–18.
+10 	Douaud G, Smith S, Jenkinson M, Behrens T, Johansen-Berg H, Vickers J, James S, Voets N, Watkins K, Matthews PM, James A. Anatomically related grey and white matter abnormalities in adolescent-onset schizophrenia. Brain. 2007; 130: 2375–86.
+11 	Behrens TEJ, Johansen-Berg H, Woolrich MW, Smith SM, Wheeler-Kingshott CAM, Boulby PA, Barker GJ, Sillery EL, Sheehan K, Ciccarelli O, Thompson AJ, Brady JM, Matthews PM. Non-invasive mapping of connections between human thalamus and cortex using diffusion imaging. Nature Neuroscience. 2003; 6: 750–7.
+12 	Johansen-Berg H, Behrens TEJ, Robson MD, Drobnjak I, Rushworth MFS, Brady JM, Smith SM, Higham DJ, Matthews PM. Changes in connectivity profiles define functionally distinct regions in human medial frontal cortex. Proceedings of the National Academy of Sciences of the United States of America. 2004; 101: 13335–40.
+13 	Saygin ZM, Osher DE, Augustinack J, Fischl B, Gabrieli JDE. Connectivity-based segmentation of human amygdala nuclei using probabilistic tractography. NeuroImage. 2011; 56: 1353–61.
+14 	Hagmann P, Cammoun L, Gigandet X, Meuli R, Honey CJ, Wedeen VJ, Sporns O. Mapping the structural core of human cerebral cortex. PLoS Biology. 2008; 6: e159.
+15 	McNab JA, Jbabdi S, Deoni SCL, Douaud G, Behrens TEJ, Miller KL. High resolution diffusion-weighted imaging in fixed human brain using diffusion-weighted steady state free precession. NeuroImage. 2009; 46: 775–85.
+16 	Heidemann RM, Porter DA, Anwander A, Feiweier T, Heberlein K, Knösche TR, Turner R. Diffusion imaging in humans at 7T using readout-segmented EPI and GRAPPA. Magnetic Resonance in Medicine. 2010; 64: 9–14.
+17 	Clarke E, O’Malley CD. The human brain and spinal cord: a historical study illustrated by writings from antiquity to the twentieth century. University of California Press: Berkeley, 1968.
+18 	Schmahmann JD, Pandya DN. Fiber Pathways of the Brain. 1st ed. Oxford University Press: Oxford, 2006.
+19 	Nieuwenhuys R, Voogd J, van Huijzen C. The human central nervous system. 4th ed. Springer-Verlag: Berlin, Heidelberg, New York, 2008.
+20 	Stricker S, Power H. Manual of Human Comparative Histology, Vol I&II. The New Sydenham Society: London, 1872.
+21 	Von Bonin G. Some papers on the cerebral cortex. Thomas: Springfield, 1960.
+22 	Debernardi A, Sala E, D’Aliberti G, Talamonti G, Franchini AF, Collice M. Alcmaeon of Croton. Neurosurgery. 2010; 66: 247–52; discussion 252.
+23 	Gross CG. Aristotle on the Brain. The Neuroscientist. 1995; 1: 245–50.
+24 	Longrigg J. Anatomy in Alexandria in the Third Century B.C. The British Journal for the History of Science. 2009; 21: 455–88.
+25 	Gross CG. Galen and the Squealing Pig. The Neuroscientist. 1998; 4: 216–21.
+26 	Green CD. Where did the ventricular localization of mental faculties come from? Journal of the History of the Behavioral Sciences. 2003; 39: 131–42.
+27 	Olry R. Medieval neuroanatomy: the text of Mondino dei Luzzi and the plates of Guido da Vigevano. Journal of the History of the Neurosciences. 1997; 6: 113–23.
+28 	Bambach C. Anatomy in the Renaissance. Heilbrunn Timeline of Art History. 2000. http://www.metmuseum.org/toah/hd/anat/hd_anat.htm (accessed 23 Oct2013).
+29 	Martino J, De Witt Hamer PC, Berger MS, Lawton MT, Arnold CM, de Lucas EM, Duffau H. Analysis of the subcomponents and cortical terminations of the perisylvian superior longitudinal fasciculus: a fiber dissection and DTI tractography study. Brain Structure & Function. 2013; 218: 105–21.
+30 	Türe U, Yaşargil MG, Friedman a H, Al-Mefty O. Fiber dissection technique: lateral aspect of the brain. Neurosurgery. 2000; 47: 417–26; discussion 426–7.
+31 	Paul LK, Brown WS, Adolphs R, Tyszka JM, Richards LJ, Mukherjee P, Sherr EH. Agenesis of the corpus callosum: genetic, developmental and functional aspects of connectivity. Nature Reviews Neuroscience. 2007; 8: 287–99.
+32 	Gazzaniga MS. Cerebral specialization and interhemispheric communication: does the corpus callosum enable the human condition? Brain. 2000; 123: 1293–326.
+33 	Makris N, Kennedy DN, McInerney S, Sorensen a G, Wang R, Caviness VS, Pandya DN. Segmentation of subcomponents within the superior longitudinal fascicle in humans: a quantitative, in vivo, DT-MRI study. Cerebral Cortex. 2005; 15: 854–69.
+34 	Meynert T. A Clinical Treatise on Diseases of the Fore-brain Based upon a Study of its Structure, Functions, and Nutrition. Translated by Bernard Sachs. G.P. Putnam’s Sons: New York, 1885.
+35 	Papez JW. A proposed mechanism of emotion. Archives of Neurology and Psychiatry. 1937; 38: 725–643.
+36 	Van den Heuvel M, Mandl R, Luigjes J, Hulshoff Pol H. Microstructural organization of the cingulum tract and the level of default mode functional connectivity. The Journal of Neuroscience. 2008; 28: 10844–51.
+37 	Tsivilis D, Vann SD, Denby C, Roberts N, Mayes AR, Montaldi D, Aggleton JP. A disproportionate role for the fornix and mammillary bodies in recall versus recognition memory. Nature Neuroscience. 2008; 11: 834–42.
+38 	Gennari F. De peculiari structura cerebri, nonnulisque ejus morbi. Parmae: Ex Regio Typographico, 1782.
+39 	Baillarger JGF. Recherches sur la structure de la couche corticale des circonvolutions du cerveau. Mémoires de l’Académie Royale de Médecine de Paris. 1840; 8: 149–83.
+40 	Willis T. Cerebri anatome : cui accessit nervorum descriptio et usus. Londini: typis Ja. Flesher, impensis Jo. Martyn & Ja. Allestry apud insigne Campanae in Coemeterio D. Pauli: London, 1664.
+41 	Olden-Jørgensen S. Nicholas Steno and René Descartes: A Cartesian perspective on Steno’s scientific development. Geological Society of America Memoirs. 2009; 203: 149–57.
+42 	Steno N. Discours sur L’Anatomie du Cerveau. 1669.
+43 	Gall FJ, Spurzheim JK. Anatomie et physiologie du système nerveux en général et anatomie du cerveau en particulier. Vol II. F. Schoell: Paris, 1812.
+44 	Combe G. A System of Phrenology. 3rd ed. Benjamin B Mussey and Company: Boston, 1851.
+45 	Broca PP. Perte de la Parole, Ramollissement Chronique et Destruction Partielle du Lobe Antérieur Gauche du Cerveau. Bulletin de La Société Anthropologique. 1861; 2: 235–8.
+46 	Waller A. Experiments on the section of the glossopharyngeal and hypoglossal nerves of the frog, and observations of the alterations produced thereby in the structure of their primitive fibres. Philosophical Transactions of the Royal Society. 1850; 140: 423–9.
+47 	Türck L. Über sekondäre Erkrankung einzelner Rückenmarkstränge und ihrher Fortsetzungen zum Gehirne. Z Kais Kön Ges Ärzte Wien. 1849; 1: 173–6.
+48 	Von Gudden B. Experimentaluntersuchungen über das peripherische und centrale Nervensystem. Archiv Psychiatrie Nervenkrankheiten. 1870; 2: 693–723.
+49 	Catani M, Dell’Acqua F, Bizzi A, Forkel SJ, Williams SC, Simmons A, Murphy DG, Thiebaut de Schotten M. Beyond cortical localization in clinico-anatomical correlation. Cortex. 2012; 48: 1262–87.
+50 	Fritsch G, Hitzig EU. Über die elektrische Erregbarkeit des Grosshirns. Archiv Für Anatomie Physiologie Und Wissenschaftliche Medicin. 1870; 37: 300–32.
+51 	Van Leeuwenhoek A. More observations from Mr.Leewenhook, in a letter of Sept. 7.1674. sent to the Publisher. Philosophical Transactions of the Royal Society. 1674; 9: 178–82.
+52 	Malphigi M. De cerebro epistola. In: Tetras anatomicarum epistolarum. Bologna, 1664, pp 1–46.
+53 	Klüver H, Barrera E. A method for the combined staining of cells and fibers in the nervous system. Journal of Neuropathology and Experimental Neurology. 1953; 12: 400–3.
+54 	Blackwell ML, Farrar CT, Fischl B, Rosen BR. Target-specific contrast agents for magnetic resonance microscopy. NeuroImage. 2009; 46: 382–93.
+55 	Sikma K-J, Kleinnijenhuis M, Barth M, Dederen PJ, Küsters B, Slump CH, van Cappellen van Walsum A-M. Validating tractography from DWI/SWI data with 3D reconstructed histological data of post-mortem human brain tissue. In: Nederlandse Vereniging voor Technische Geneeskunde. Enschede, The Netherlands, 2010.
+56 	Bodian D. A new method for staining nerve fibers and nerve endings in mounted paraffin sections. The Anatomical Record. 1936; 65: 89–97.
+57 	Gambetti P, Autilio-Gambetti L, Papasozomenos SC. Bodian’s Silver Method Stains Neurofilament Polypeptides. Science. 1981; 213: 1521–2.
+58 	Uchihara T. Silver diagnosis in neuropathology: principles, practice and revised interpretation. Acta Neuropathologica. 2007; 113: 483–99.
+59 	Reil JC. Untersuchingen über den Bau des grossen Gehirns im Menschen. Vierte Fortsetzung VIII. Arch Physiol. 1809; 9: 136–46.
+60 	Hannover A. Die Chromsäure, ein vorzügliches Mittel beim mikroscopischen Untersuchungen. Arch Anat Physiol. 1840; : 549–58.
+61 	Blum F. Der Formaldehyd als Hartungsmittel. Zeitschrift Für Mikroscopie. 1893; 10: 314–5.
+62 	Von Gerlach J. Über die Structur der grauern Substanz des menschlichen Grosshirns. Vorläufige Mittheilung. Zbl Med Wiss. 1872; 10: 273–5.
+63 	Deiters OFK. Untersuchungen über Gehirn und Rückenmark des Menschen und der Säugethiere. Vieweg: Braunschweig, 1865.
+64 	His W. Zur Geschichte des menschlichen Rückenmarkes und der Nervelwurzeln. Abh K Säch Ges Wiss, Math-Phys Classe. 1887; 13: 477–514.
+65 	Forel A-H. Einige hirnanatomische Betrachtungen und Ergebnisse. Arch Psychiat NervKrankh. 1887; 18: 162–98.
+66 	Waldeyer W. Über einige neuere Forschungen im Gebiete der Anatomie des Centralnervensystems. Dt Med Wschr. 1891; 17: 1213–8, 1244–6, 1267–9, 1287–9, 1331–1.
+67 	Dejerine JJ, Dejerine-Klumpke A. Anatomie des centres nerveux. Vol. I. Paris, 1895.
+68 	Dejerine JJ, Dejerine-Klumpke A. Anatomie des centres nerveux. Vol. II. Rueff: Paris, 1901.
+69 	Bassetti CL, Jagella EC. Joseph Jules Dejerine (1849-1917). Journal of Neurology. 2006; 253: 823–4.
+70 	Shoja MM, Tubbs RS. Augusta Déjerine-Klumpke: the first female neuroanatomist. Clinical Anatomy. 2007; 20: 585–7.
+71 	Lanciego JL, Wouterlood FG. A half century of experimental neuroanatomical tracing. Journal of Chemical Neuroanatomy. 2011; 42: 157–83.
+72 	Felleman DJ, Van Essen DC. Distributed hierarchical processing in the primate cerebral cortex. Cerebral Cortex. 1991; 1: 1–47.
+73 	White JG, Southgate E, Thomson JN, Brenner S. The Structure of the Nervous System of the Nematode Caenorhabditis elegans. Philosophical Transactions of the Royal Society B: Biological Sciences. 1986; 314: 1–340.
+74 	Stephan KE. The history of CoCoMac. NeuroImage. 2013; 80: 46–52.
+75 	Vogt O. Die myeloarchitektonische Felderung des menschlichen Stirnhirns. Journal Für Psychologie Und Neurologie. 1910; 15: 221–38.
+76 	Callaway EM. Local circuits in primary visual cortex of the macaque monkey. Annual Review of Neuroscience. 1998; 21: 47–74.
+77 	Innocenti GM, Vercelli A. Dendritic bundles, minicolumns, columns, and cortical output units. Frontiers in Neuroanatomy. 2010; 4: 11.
+78 	Peters A, Sethares C. Myelinated axons and the pyramidal cell modules in monkey primary visual cortex. The Journal of Comparative Neurology. 1996; 365: 232–55.
+79 	Mountcastle VB. Modality and topographic properties of single neurons of cat’s somatic sensory cortex. Journal of Neurophysiology. 1957; 20: 408–34.
+80 	Inhibitory neurons. 2007. © Blue Brain Project, EPFL, Lausanne, Switzerland.
+81 	Peters A, Sethares C. The effects of age on the cells in layer 1 of primate cerebral cortex. Cerebral Cortex. 2002; 12: 27–36.
+82 	Gerlach W, Stern O. Das Magnetische Moment des Silberatoms. Zeitschrift Für Physik. 1922; 9: 353–5.
+83 	Rabi II, Zacharias JR, Millman S, Kusch P. A New Method of Measuring Nuclear Magnetic Moment. Physical Review. 1938; 53: 318.
+84 	Bloch F. Nuclear Induction. Physical Review. 1946; 70: 460–74.
+85 	Purcell EM, Torrey HC, Pound RV. Resonance Absorption by Nuclear Magnetic Moments in a Solid. Physical Review. 1946; 69: 37–8.
+86 	Hahn EL. Spin Echoes. Physical Review. 1950; 80: 580–94.
+87 	Mansfield P. Multi-planar image formation using NMR spin echoes. Journal of Physics C: Solid State Physics. 1977; 10: L55–L58.
+88 	Boyacioğlu R, Barth M. Generalized iNverse imaging (GIN): Ultrafast fMRI with physiological noise correction. Magnetic Resonance in Medicine. 2012; 971: 962–71.
+89 	Edelstein WA, Glover GH, Hardy CJ, Redington RW. The intrinsic signal-to-noise ratio in NMR imaging. Magnetic Resonance in Medicine. 1986; 3: 604–18.
+90 	Wright PJ, Mougin OE, Totman JJ, Peters AM, Brookes MJ, Coxon R, Morris PE, Clemence M, Francis ST, Bowtell RW, Gowland PA. Water proton T1 measurements in brain tissue at 7, 3, and 1.5 T using IR-EPI, IR-TSE, and MPRAGE: results and optimization. Magma. 2008; 21: 121–30.
+91 	Cox EF, Gowland PA. Simultaneous quantification of T2 and T’2 using a combined gradient echo-spin echo sequence at ultrahigh field. Magnetic Resonance in Medicine. 2010; 64: 1440–5.
+92 	Hu X, Norris DG. Advances in high-field magnetic resonance imaging. Annual Review of Biomedical Engineering. 2004; 6: 157–84.
+93 	Hoult DI. Sensitivity and power deposition in a high-field imaging experiment. Journal of Magnetic Resonance Imaging. 2000; 12: 46–67.
+94 	Van de Moortele P-F, Akgun C, Adriany G, Moeller S, Ritter J, Collins CM, Smith MB, Vaughan JT, Uğurbil K. B(1) destructive interferences and spatial phase patterns at 7 T with a head transceiver array coil. Magnetic Resonance in Medicine. 2005; 54: 1503–18.
+95 	Yang QX, Mao W, Wang J, Smith MB, Lei H, Zhang X, Ugurbil K, Chen W. Manipulation of image intensity distribution at 7.0 T: passive RF shimming and focusing with dielectric materials. Journal of Magnetic Resonance Imaging. 2006; 24: 197–202.
+96 	Katscher U, Börnert P, Leussler C, van den Brink JS. Transmit SENSE. Magnetic Resonance in Medicine. 2003; 49: 144–50.
+97 	Orzada S, Maderwald S, Poser BA, Bitz AK, Quick HH, Ladd ME. RF excitation using time interleaved acquisition of modes (TIAMO) to address B1 inhomogeneity in high-field MRI. Magnetic Resonance in Medicine. 2010; 64: 327–33.
+98 	Webb AG. Radiofrequency microcoils for magnetic resonance imaging and spectroscopy. Journal of Magnetic Resonance. 2013; 229: 55–66.
+99 	Hoult DI, Richards RE. The signal-to-noise ratio of the nuclear magnetic resonance experiment. Journal of Magnetic Resonance. 1976; 24: 71–85.
+100 	Kovacs H, Moskau D, Spraul M. Cryogenically cooled probes—a leap in NMR technology. Progress in Nuclear Magnetic Resonance Spectroscopy. 2005; 46: 131–55.
+101 	Yablonskiy DA, Sukstanskii AL. Theoretical models of the diffusion weighted MR signal. NMR in Biomedicine. 2010; 23: 661–81.
+102 	Syková E, Nicholson C. Diffusion in Brain Extracellular Space. Physiological Review. 2008; 88: 1277–340.
+103 	Thorne RG, Nicholson C. In vivo diffusion analysis with quantum dots and dextrans predicts the width of brain extracellular space. Proceedings of the National Academy of Sciences of the United States of America. 2006; 103: 5567–72.
+104 	Hrabetová S, Nicholson C. Contribution of dead-space microdomains to tortuosity of brain extracellular space. Neurochemistry International. 2004; 45: 467–77.
+105 	Verkman AS. Solute and macromolecule diffusion in cellular aqueous compartments. Trends in Biochemical Sciences. 2002; 27: 27–33.
+106 	Goodman JA, Kroenke CD, Bretthorst GL, Ackerman JJH, Neil JJ. Sodium ion apparent diffusion coefficient in living rat brain. Magnetic Resonance in Medicine. 2005; 53: 1040–5.
+107 	Shepherd TM, Thelwall PE, Stanisz GJ, Blackband SJ. Aldehyde fixative solutions alter the water relaxation and diffusion properties of nervous tissue. Magnetic Resonance in Medicine. 2009; 62: 26–34.
+108 	D’Arceuil HE, Westmoreland S, de Crespigny AJ. An approach to high resolution diffusion tensor imaging in fixed primate brain. NeuroImage. 2007; 35: 553–65.
+109 	Carr HY, Purcell EM. Effects of Diffusion on Free Precession in Nuclear Magnetic Resonance Experiments. Physical Review. 1954; 94: 630–8.
+110 	Torrey HC. Bloch Equations with Diffusion Terms. Physical Review. 1956; 104: 563–5.
+111 	Stejskal EO, Tanner JE. Spin Diffusion Measurements: Spin Echoes in the Presence of a Time-Dependent Field Gradient. The Journal of Chemical Physics. 1965; 42: 288.
+112 	Moseley ME, Cohen Y, Mintorovitch J, Chileuitt L, Shimizu H, Kucharczyk J, Wendland MF, Weinstein PR. Early detection of regional cerebral ischemia in cats: comparison of diffusion- and T2-weighted MRI and spectroscopy. Magnetic Resonance in Medicine . 1990; 14: 330–46.
+113 	Basser PJ, Mattiello J, LeBihan D. MR diffusion tensor spectroscopy and imaging. Biophysical Journal. 1994; 66: 259–67.
+114 	Callaghan PT, Eccles CD, Xia Y. NMR microscopy of dynamic displacements: k-space and q-space imaging. Journal of Physics E: Scientific Instruments. 1988; 21: 820–2.
+115 	Mitra PP, Halperin BI. Effects of Finite Gradient-Pulse Widths in Pulsed-Field-Gradient Diffusion Measurements. Journal of Magnetic Resonance. 1995; 113: 94–101.
+116 	Ozarslan E, Mareci TH. Generalized diffusion tensor imaging and analytical relationships between diffusion tensor imaging and high angular resolution diffusion imaging. Magnetic Resonance in Medicine. 2003; 50: 955–65.
+117 	Jensen JH, Helpern JA, Ramani A, Lu H, Kaczynski K. Diffusional kurtosis imaging: the quantification of non-gaussian water diffusion by means of magnetic resonance imaging. Magnetic Resonance in Medicine. 2005; 53: 1432–40.
+118 	Frank LR. Characterization of anisotropy in high angular resolution diffusion-weighted MRI. Magnetic Resonance in Medicine. 2002; 47: 1083–99.
+119 	Tuch DS, Reese TG, Wiegell MR, Makris N, Belliveau JW, Wedeen VJ. High angular resolution diffusion imaging reveals intravoxel white matter fiber heterogeneity. Magnetic Resonance in Medicine. 2002; 48: 577–82.
+120 	Wedeen VJ, Hagmann P, Tseng W-YI, Reese TG, Weisskoff RM. Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging. Magnetic Resonance in Medicine. 2005; 54: 1377–86.
+121 	Tuch DS, Reese TG, Wiegell MR, Wedeen VJ. Diffusion MRI of complex neural architecture. Neuron. 2003; 40: 885–95.
+122 	Jansons KM, Alexander DC. Persistent Angular Structure: new insights from diffusion MRI data. Dummy version. Information Processing in Medical Imaging : Proceedings of the . Conference. 2003; 18: 672–83.
+123 	Tournier J-D, Calamante F, Gadian DG, Connelly A. Direct estimation of the fiber orientation density function from diffusion-weighted MRI data using spherical deconvolution. NeuroImage. 2004; 23: 1176–85.
+124 	Tournier J-D, Calamante F, Connelly A. Robust determination of the fibre orientation distribution in diffusion MRI: non-negativity constrained super-resolved spherical deconvolution. NeuroImage. 2007; 35: 1459–72.
+125 	Neuman CH. Spin echo of spins diffusing in a bounded medium. The Journal of Chemical Physics. 1974; 60: 4508.
+126 	Van Gelderen P, DesPres D, van Zijl PC, Moonen CT. Evaluation of restricted diffusion in cylinders. Phosphocreatine in rabbit leg muscle. Journal of Magnetic Resonance Series B. 1994; 103: 255–60.
+127 	Codd S, Callaghan P. Spin Echo Analysis of Restricted Diffusion under Generalized Gradient Waveforms: Planar, Cylindrical, and Spherical Pores with Wall Relaxivity. Journal of Magnetic Resonance. 1999; 137: 358–72.
+128 	Stanisz GJ, Szafer A, Wright GA, Henkelman RM. An analytical model of restricted diffusion in bovine optic nerve. Magnetic Resonance in Medicine. 1997; 37: 103–11.
+129 	Szafer A, Zhong J, Gore JC. Theoretical model for water diffusion in tissues. Magnetic Resonance in Medicine. 1995; 33: 697–712.
+130 	Latour LL, Svoboda K, Mitra PP, Sotak CH. Time-dependent diffusion of water in a biological model system. Proceedings of the National Academy of Sciences of the United States of America. 1994; 91: 1229–33.
+131 	Behrens TEJ, Woolrich MW, Jenkinson M, Johansen-Berg H, Nunes RG, Clare S, Matthews PM, Brady JM, Smith SM. Characterization and propagation of uncertainty in diffusion-weighted MR imaging. Magnetic Resonance in Medicine. 2003; 50: 1077–88.
+132 	Assaf Y, Basser PJ. Composite hindered and restricted model of diffusion (CHARMED) MR imaging of the human brain. NeuroImage. 2005; 27: 48–58.
+133 	Assaf Y, Blumenfeld-Katzir T, Yovel Y, Basser PJ. AxCaliber: a method for measuring axon diameter distribution from diffusion MRI. Magnetic Resonance in Medicine. 2008; 59: 1347–54.
+134 	Alexander DC, Hubbard PL, Hall MG, Moore EA, Ptito M, Parker GJM, Dyrby TB. Orientationally invariant indices of axon diameter and density from diffusion MRI. NeuroImage. 2010; 52: 1374–89.
+135 	Zhang H, Schneider T, Wheeler-Kingshott CA, Alexander DC. NODDI: practical in vivo neurite orientation dispersion and density imaging of the human brain. NeuroImage. 2012; 61: 1000–16.
+136 	Zhang H, Hubbard PL, Parker GJM, Alexander DC. Axon diameter mapping in the presence of orientation dispersion with diffusion MRI. NeuroImage. 2011; 56: 1301–15.
+137 	Jespersen SN, Leigland LA, Cornea A, Kroenke CD. Determination of axonal and dendritic orientation distributions within the developing cerebral cortex by diffusion tensor imaging. IEEE Transactions on Medical Imaging. 2012; 31: 16–32.
+138 	Mori S, Crain BJ, Chacko VP, van Zijl PC. Three-dimensional tracking of axonal projections in the brain by magnetic resonance imaging. Annals of Neurology. 1999; 45: 265–9.
+139 	Lazar M, Weinstein DM, Tsuruda JS, Hasan KM, Arfanakis K, Meyerand ME, Badie B, Rowley HA, Haughton V, Field A, Alexander AL. White matter tractography using diffusion tensor deflection. Human Brain Mapping. 2003; 18: 306–21.
+140 	Catani M, Howard RJ, Pajevic S, Jones DK. Virtual in Vivo Interactive Dissection of White Matter Fasciculi in the Human Brain. NeuroImage. 2002; 17: 77–94.
+141 	Nijhuis EHJ, van Cappellen van Walsum A-M, Norris DG. Topographic hub maps of the human structural neocortical network. PloS One. 2013; 8: e65511.
+142 	Visser E, Nijhuis EHJ, Buitelaar JK, Zwiers MP. Partition-based mass clustering of tractography streamlines. NeuroImage. 2011; 54: 303–12.
+143 	Koch MA, Norris DG, Hund-Georgiadis M. An investigation of functional and anatomical connectivity using magnetic resonance imaging. NeuroImage. 2002; 16: 241–50.
+144 	Haacke EM, Xu Y, Cheng Y-CN, Reichenbach JR. Susceptibility weighted imaging (SWI). Magnetic Resonance in Medicine. 2004; 52: 612–8.
+145 	Reichenbach JR, Venkatesan R, Schillinger DJ, Kido DK, Haacke EM. Small vessels in the human brain: MR venography with deoxyhemoglobin as an intrinsic contrast agent. Radiology. 1997; 204: 272–7.
+146 	He X, Yablonskiy DA. Biophysical mechanisms of phase contrast in gradient echo MRI. Proceedings of the National Academy of Sciences of the United States of America. 2009; 106: 13558–63.
+147 	Liu C. Susceptibility tensor imaging. Magnetic Resonance in Medicine. 2010; 63: 1471–7.
+148 	Liu T, Spincemaille P, de Rochefort L, Kressler B, Wang Y. Calculation of susceptibility through multiple orientation sampling (COSMOS): a method for conditioning the inverse problem from measured magnetic field map to susceptibility source image in MRI. Magnetic Resonance in Medicine. 2009; 61: 196–204.
+149 	De Rochefort L, Liu T, Kressler B, Liu J, Spincemaille P, Lebon V, Wu J, Wang Y. Quantitative susceptibility map reconstruction from MR phase data using bayesian regularization: validation and application to brain imaging. Magnetic Resonance in Medicine. 2010; 63: 194–206.
+150 	Conturo TE, Lori NF, Cull TS, Akbudak E, Snyder AZ, Shimony JS, McKinstry RC, Burton H, Raichle ME. Tracking neuronal fiber pathways in the living human brain. Proceedings of the National Academy of Sciences of the United States of America. 1999; 96: 10422–7.
+151 	Jones DK, Simmons A, Williams SC, Horsfield MA. Non-invasive assessment of axonal fiber connectivity in the human brain via diffusion tensor MRI. Magnetic Resonance in Medicine. 1999; 42: 37–41.
+152 	Beaulieu C. The basis of anisotropic water diffusion in the nervous system - a technical review. NMR in Biomedicine. 2002; 15: 435–55.
+153 	Seunarine KK, Alexander DC. Multiple fibers: beyond the diffusion tensor. In: Johansen-Berg H, Behrens TEJ (eds). Diffusion MRI: From quantitative measurement to in-vivo neuroanatomy. Academic Press: San Diego, 2009, pp 55–72.
+154 	Dyrby TB, Søgaard L V, Parker GJ, Alexander DC, Lind NM, Baaré WFC, Hay-Schmidt A, Eriksen N, Pakkenberg B, Paulson OB, Jelsing J. Validation of in vitro probabilistic tractography. NeuroImage. 2007; 37: 1267–77.
+155 	Wedeen VJ, Wang RP, Schmahmann JD, Benner T, Tseng WYI, Dai G, Pandya DN, Hagmann P, D’Arceuil H, de Crespigny AJ. Diffusion spectrum magnetic resonance imaging (DSI) tractography of crossing fibers. NeuroImage. 2008; 41: 1267–77.
+156 	Roebroeck A, Galuske R, Formisano E, Chiry O, Bratzke H, Ronen I, Kim D, Goebel R. High-resolution diffusion tensor imaging and tractography of the human optic chiasm at 9.4 T. NeuroImage. 2008; 39: 157–68.
+157 	McNab JA, Gallichan D, Miller KL. 3D steady-state diffusion-weighted imaging with trajectory using radially batched internal navigator echoes (TURBINE). Magnetic Resonance in Medicine. 2010; 63: 235–42.
+158 	Calamante F, Tournier J-D, Jackson GD, Connelly A. Track-density imaging (TDI): super-resolution white matter imaging using whole-brain track-density mapping. NeuroImage. 2010; 53: 1233–43.
+159 	Ogawa S, Lee TM, Kay AR, Tank DW. Brain magnetic resonance imaging with contrast dependent on blood oxygenation. Proceedings of the National Academy of Sciences of the United States of America. 1990; 87: 9868–72.
+160 	Li T-Q, van Gelderen P, Merkle H, Talagala L, Koretsky AP, Duyn J. Extensive heterogeneity in white matter intensity in high-resolution T2*-weighted MRI of the human brain at 7.0 T. NeuroImage. 2006; 32: 1032–40.
+161 	Duyn JH. Study of brain anatomy with high-field MRI: recent progress. Magnetic Resonance Imaging. 2010; 28: 1210–5.
+162 	Fukunaga M, Li T-Q, van Gelderen P, de Zwart JA, Shmueli K, Yao B, Lee J, Maric D, Aronova MA, Zhang G, Leapman RD, Schenck JF, Merkle H, Duyn JH. Layer-specific variation of iron content in cerebral cortex as a source of MRI contrast. Proceedings of the National Academy of Sciences of the United States of America. 2010; 107: 3834–9.
+163 	Langkammer C, Krebs N, Goessler W, Scheurer E, Ebner F, Yen K, Fazekas F, Ropele S. Quantitative MR imaging of brain iron: a postmortem validation study. Radiology. 2010; 257: 455–62.
+164 	Li T-Q, Yao B, van Gelderen P, Merkle H, Dodd S, Talagala L, Koretsky AP, Duyn J. Characterization of T(2)* heterogeneity in human brain white matter. Magnetic Resonance in Medicine. 2009; 62: 1652–7.
+165 	Schäfer A, Wiggins CJ, Turner R. Understanding the orientation dependent T2 * contrast of the cingulum in ultra high fields. In: Proceedings of the International Society for Magnetic Resonance in Medicine. Stockholm, Sweden, 2009, p 956.
+166 	Wiggins CJ, Gudmundsdottir V, Le Bihan D, Lebon V, Chaumeil M. Orientation Dependence of White Matter T2* Contrast at 7T : A Direct Demonstration. In: Proceedings of the International Society for Magnetic Resonance in Medicine. Toronto, Canada, 2008, p 237.
+167 	Lee J, van Gelderen P, Kuo L-W, Merkle H, Silva AC, Duyn JH. T2*-based fiber orientation mapping. NeuroImage. 2011; 57: 225–34.
+168 	Bender B, Klose U. The in vivo influence of white matter fiber orientation towards B(0) on T2* in the human brain. NMR in Biomedicine. 2010; 23: 1071–6.
+169 	Cherubini A, Péran P, Hagberg GE, Varsi AE, Luccichenti G, Caltagirone C, Sabatini U, Spalletta G. Characterization of white matter fiber bundles with T2* relaxometry and diffusion tensor imaging. Magnetic Resonance in Medicine. 2009; 61: 1066–72.
+170 	Denk C, Hernandez Torres E, MacKay A, Rauscher A. The influence of white matter fibre orientation on MR signal phase and decay. NMR in Biomedicine. 2011; 24: 246–52.
+171 	Thiebaut de Schotten M, Ffytche DH, Bizzi A, Dell’Acqua F, Allin M, Walshe M, Murray R, Williams SC, Murphy DGM, Catani M. Atlasing location, asymmetry and inter-subject variability of white matter tracts in the human brain with MR diffusion tractography. NeuroImage. 2011; 54: 49–59.
+172 	Van Baarsen KM, Porro GL, Wittebol-Post D. Epilepsy surgery provides new insights in retinotopic organization of optic radiations. A systematic review. Current Opinion in Ophthalmology. 2009; 20: 490–4.
+173 	Cook PA, Symms M, Boulby PA, Alexander DC. Optimal acquisition orders of diffusion-weighted MRI measurements. Journal of Magnetic Resonance Imaging. 2007; 25: 1051–8.
+174 	Dale AM, Fischl B, Sereno MI. Cortical surface-based analysis. I. Segmentation and surface reconstruction. NeuroImage. 1999; 9: 179–94.
+175 	Fischl B, Sereno MI, Dale AM. Cortical surface-based analysis. II: Inflation, flattening, and a surface-based coordinate system. NeuroImage. 1999; 9: 195–207.
+176 	Smith SM, Jenkinson M, Woolrich MW, Beckmann CF, Behrens TEJ, Johansen-Berg H, Bannister PR, De Luca M, Drobnjak I, Flitney DE, Niazy RK, Saunders J, Vickers J, Zhang Y, De Stefano N, Brady JM, Matthews PM. Advances in functional and structural MR image analysis and implementation as FSL. NeuroImage. 2004; 23 Suppl 1: S208–19.
+177 	Zwiers MP. Patching cardiac and head motion artefacts in diffusion-weighted images. NeuroImage. 2010; 53: 565–75.
+178 	Visser E, Qin S, Zwiers MP. EPI distortion correction by constrained nonlinear coregistration improves group fMRI. In: Proceedings of the International Society for Magnetic Resonance in Medicine. Stockholm, Sweden, 2010, p 3459.
+179 	Brox T, Boomgaard R Van Den, Weickert J, Lauze F, van de Weijer J, Weickert J, Mrázek P, Kornprobst P. Adaptive Structure Tensors and their Applications. In: Weickert J, Hagen H (eds). Visualization and Processing of Tensor Fields. Springer Berlin: New York, 2006.
+180 	Weickert J. Anisotropic Diffusion in Image Processing. B.G.Teubner: Stuttgart, 1998.
+181 	Kroon D-J, Slump CH. Coherence Filtering to Enhance the Mandibular Canal in Cone-beam CT Data. In: IEEE-EMBS Benelux Chapter. Enschede, The Netherlands, 2009.
+182 	Cook PA, Bai Y, Seunarine KK, Hall MG, Parker GJ, Alexander DC. Camino : Open-Source Diffusion-MRI Reconstruction and Processing. In: Proceedings of the International Society for Magnetic Resonance in Medicine. Seattle, WA, USA, 2006, p 2759.
+183 	Koopmans PJ, Manniesing R, Niessen WJ, Viergever MA, Barth M. MR venography of the human brain using susceptibility weighted imaging at very high field strength. Magma. 2008; 21: 149–58.
+184 	Descoteaux M, Angelino E, Fitzgibbons S, Deriche R. Regularized, fast, and robust analytical Q-ball imaging. Magnetic Resonance in Medicine. 2007; 58: 497–510.
+185 	Tuch DS. Q-ball imaging. Magnetic Resonance in Medicine. 2004; 52: 1358–72.
+186 	Parker GJM, Haroon HA, Wheeler-Kingshott CAM. A framework for a streamline-based probabilistic index of connectivity (PICo) using a structural interpretation of MRI diffusion measurements. Journal of Magnetic Resonance Imaging. 2003; 18: 242–54.
+187 	Seunarine KK, Cook PA, Hall MG, Embleton K V, Parker GJM, Alexander DC. Exploiting peak anisotropy for tracking through complex structures. In: 2007 IEEE 11th International Conference on Computer Vision. IEEE, 2007, pp 1–8.
+188 	Kitajima M, Korogi Y, Takahashi M, Eto K. MR signal intensity of the optic radiation. AJNR American Journal of Neuroradiology. 1996; 17: 1379–83.
+189 	Ebeling U, Reulen HJ. Neurosurgical topography of the optic radiation in the temporal lobe. Acta Neurochirurgica. 1988; 92: 29–36.
+190 	Tusa RJ, Ungerleider LG. Fiber pathways of cortical areas mediating smooth pursuit eye movements in monkeys. Annals of Neurology. 1988; 23: 174–83.
+191 	Woodward WR, Coull BM. Localization and organization of geniculocortical and corticofugal fiber tracts within the subcortical white matter. Neuroscience. 1984; 12: 1089–99.
+192 	Tusa RJ, Ungerleider LG. The inferior longitudinal fasciculus: a reexamination in humans and monkeys. Annals of Neurology. 1985; 18: 583–91.
+193 	Catani M, Jones DK, Donato R, Ffytche DH. Occipito-temporal connections in the human brain. Brain. 2003; 126: 2093–107.
+194 	Yeterian EH, Pandya DN. Fiber pathways and cortical connections of preoccipital areas in rhesus monkeys. The Journal of Comparative Neurology. 2010; 518: 3725–51.
+195 	Schmahmann JD, Pandya DN. The complex history of the fronto-occipital fasciculus. Journal of the History of the Neurosciences. 2007; 16: 362–77.
+196 	Lawes INC, Barrick TR, Murugam V, Spierings N, Evans DR, Song M, Clark CA. Atlas-based segmentation of white matter tracts of the human brain using diffusion tensor tractography and comparison with classical dissection. NeuroImage. 2008; 39: 62–79.
+197 	Martino J, Brogna C, Robles SG, Vergani F, Duffau H. Anatomic dissection of the inferior fronto-occipital fasciculus revisited in the lights of brain stimulation data. Cortex. 2010; 46: 691–9.
+198 	Geschwind N. Disconnexion syndromes in animals and man. I. Brain. 1965; 88: 237–94.
+199 	Passingham RE, Stephan KE, Kötter R. The anatomical basis of functional localization in the cortex. Nature Reviews Neuroscience. 2002; 3: 606–16.
+200 	Tournier J-D, Mori S, Leemans A. Diffusion tensor imaging and beyond. Magnetic Resonance in Medicine. 2011; 65: 1532–56.
+201 	Locke S, Yakovlev PI. Transcallosal connections of the cingulum of man. Archives of Neurology. 1965; 13: 471–6.
+202 	Goldman-Rakic PS, Selemon LD, Schwartz ML. Dual pathways connecting the dorsolateral prefrontal cortex with the hippocampal formation and parahippocampal cortex in the rhesus monkey. Neuroscience. 1984; 12: 719–43.
+203 	Röttger D, Seib V, Müller S. Distance-based tractography in high angular resolution diffusion MRI. The Visual Computer. 2011; 27: 729–38.
+204 	Jones DK. Determining and visualizing uncertainty in estimates of fiber orientation from diffusion tensor MRI. Magnetic Resonance in Medicine. 2003; 49: 7–12.
+205 	Gigandet X, Hagmann P, Kurant M, Cammoun L, Meuli R, Thiran J-P. Estimating the confidence level of white matter connections obtained with MRI tractography. PloS One. 2008; 3: e4006.
+206 	Morris DM, Embleton K V, Parker GJM. Probabilistic fibre tracking: differentiation of connections from chance events. NeuroImage. 2008; 42: 1329–39.
+207 	Denk C, Rauscher A. Susceptibility weighted imaging with multiple echoes. Journal of Magnetic Resonance Imaging. 2010; 31: 185–91.
+208 	Schweser F, Deistung A, Lehr BW, Reichenbach JR. Quantitative imaging of intrinsic magnetic tissue properties using MRI signal phase: an approach to in vivo brain iron metabolism? NeuroImage. 2011; 54: 2789–807.
+209 	Gati JS, Menon RS, Ugurbil K, Rutt BK. Experimental determination of the BOLD field strength dependence in vessels and tissue. Magnetic Resonance in Medicine. 1997; 38: 296–302.
+210 	Mori N, Miki Y, Kasahara S, Maeda C, Kanagaki M, Urayama S, Sawamoto N, Fukuyama H, Togashi K. Susceptibility-weighted imaging at 3 Tesla delineates the optic radiation. Investigative Radiology. 2009; 44: 140–5.
+211 	Weickert J, Scharr H. A Scheme for Coherence-Enhancing Diffusion Filtering with Optimized Rotation Invariance. Journal of Visual Communication and Image Representation. 2002; 13: 103–18.
+212 	Glickstein M, Rizzolatti G. Francesco Gennari and the structure of the cerebral cortex. Trends in Neurosciences. 1984; 7: 464–7.
+213 	Golgi C. Sulla struttura della sostanza grigia del cervello. Gazzetta Medica Italiana. 1873; 33: 244–6.
+214 	Weigert C. Ausfuhrliche Beschreibung der in No. 2 diser Zeitschrifterwasnten neuen Farbungsmethod fur das Centralnervensystem. Fortschritte Der Medizin. 1884; 2: 190–1.
+215 	Brodmann K. Beiträge zur histologischen Lokalisation der Grosshirnrinde: Dritte Mitteilung: Die Rindenfelder der niederen Affen. Journal Für Psychologie Und Neurologie. 1905; 4: 177–226.
+216 	Brodmann K. Vergleichende Lokalisationslehre der Grosshirnrinde in ihren Prinzipien dargestellt auf Grund des Zellenbaues. Johann Ambrosius Barth Verlag: Leipzig, 1909.
+217 	Barbier EL, Marrett S, Danek A, Vortmeyer A, van Gelderen P, Duyn J, Bandettini P, Grafman J, Koretsky AP. Imaging cortical anatomy by high-resolution MR at 3.0T: detection of the stripe of Gennari in visual area 17. Magnetic Resonance in Medicine. 2002; 48: 735–8.
+218 	Bridge H, Clare S, Jenkinson M, Jezzard P, Parker AJ, Matthews PM. Independent anatomical and functional measures of the V1/V2 boundary in human visual cortex. Journal of Vision. 2005; 5: 93–102.
+219 	Koopmans PJ, Barth M, Norris DG. Layer-specific BOLD activation in human V1. Human Brain Mapping. 2010; 31: 1297–304.
+220 	Trampel R, Ott DVM, Turner R. Do the congenitally blind have a stria of Gennari? First intracortical insights in vivo. Cerebral Cortex. 2011; 21: 2075–81.
+221 	Turner R, Oros-Peusquens A-M, Romanzetti S, Zilles K, Shah NJ. Optimised in vivo visualisation of cortical structures in the human brain at 3 T using IR-TSE. Magnetic Resonance Imaging. 2008; 26: 935–42.
+222 	Jaermann T, De Zanche N, Staempfli P, Pruessmann KP, Valavanis A, Boesiger P, Kollias SS. Preliminary experience with visualization of intracortical fibers by focused high-resolution diffusion tensor imaging. AJNR American Journal of Neuroradiology. 2008; 29: 146–50.
+223 	Jones DK, Horsfield MA, Simmons A. Optimal strategies for measuring diffusion in anisotropic systems by magnetic resonance imaging. Magnetic Resonance in Medicine. 1999; 42: 515–25.
+224 	Visser E, Poser BA, Barth M, Zwiers MP. Reference-free unwarping of EPI data using dynamic off-resonance correction with multiecho acquisition (DOCMA). Magnetic Resonance in Medicine. 2012; 68: 1247–54.
+225 	Vandevelde IL, Duckworth E, Reep RL. Layer VII and the gray matter trajectories of corticocortical axons in rats. Anatomy and Embryology. 1996; 194: 581–93.
+226 	Hoehn-Berlage M, Eis M, Back T, Kohno K, Yamashita K. Changes of relaxation times (T1, T2) and apparent diffusion coefficient after permanent middle cerebral artery occlusion in the rat: temporal evolution, regional extent, and comparison with histology. Magnetic Resonance in Medicine. 1995; 34: 824–34.
+227 	Hoehn-Berlage M, Eis M, Schmitz B. Regional and directional anisotropy of apparent diffusion coefficient in rat brain. NMR in Biomedicine. 1999; 12: 45–50.
+228 	Lythgoe MF, Busza AL, Calamante F, Sotak CH, King MD, Bingham AC, Williams SR, Gadian DG. Effects of diffusion anisotropy on lesion delineation in a rat model of cerebral ischemia. Magnetic Resonance in Medicine. 1997; 38: 662–8.
+229 	Thornton JS, Ordidge RJ, Penrice J, Cady EB, Amess PN, Punwani S, Clemence M, Wyatt JS. Anisotropic water diffusion in white and gray matter of the neonatal piglet brain before and after transient hypoxia-ischaemia. Magnetic Resonance Imaging. 1997; 15: 433–40.
+230 	McKinstry RC, Mathur A, Miller JH, Ozcan A, Snyder AZ, Schefft GL, Almli CR, Shiran SI, Conturo TE, Neil JJ. Radial organization of developing preterm human cerebral cortex revealed by non-invasive water diffusion anisotropy MRI. Cerebral Cortex. 2002; 12: 1237–43.
+231 	Mori S, Itoh R, Zhang J, Kaufmann WE, van Zijl PC, Solaiyappan M, Yarowsky P. Diffusion tensor imaging of the developing mouse brain. Magnetic Resonance in Medicine. 2001; 46: 18–23.
+232 	Neil JJ, Shiran SI, McKinstry RC, Schefft GL, Snyder AZ, Almli CR, Akbudak E, Aronovitz JA, Miller JP, Lee BC, Conturo TE. Normal brain in human newborns: apparent diffusion coefficient and diffusion anisotropy measured by using diffusion tensor MR imaging. Radiology. 1998; 209: 57–66.
+233 	Huang H, Yamamoto A, Hossain MA, Younes L, Mori S. Quantitative cortical mapping of fractional anisotropy in developing rat brains. The Journal of Neuroscience. 2008; 28: 1427–33.
+234 	Kroenke CD, Bretthorst GL, Inder TE, Neil JJ. Diffusion MR imaging characteristics of the developing primate brain. NeuroImage. 2005; 25: 1205–13.
+235 	Kroenke CD, Van Essen DC, Inder TE, Rees S, Bretthorst GL, Neil JJ. Microstructural changes of the baboon cerebral cortex during gestational development reflected in magnetic resonance imaging diffusion anisotropy. The Journal of Neuroscience. 2007; 27: 12506–15.
+236 	Kroenke CD, Taber EN, Leigland LA, Knutsen AK, Bayly P V. Regional patterns of cerebral cortical differentiation determined by diffusion tensor MRI. Cerebral Cortex. 2009; 19: 2916–29.
+237 	Maas LC, Mukherjee P, Carballido-Gamio J, Veeraraghavan S, Miller SP, Partridge SC, Henry RG, Barkovich a J, Vigneron DB. Early laminar organization of the human cerebrum demonstrated with diffusion tensor imaging in extremely premature infants. NeuroImage. 2004; 22: 1134–40.
+238 	Sizonenko S V, Camm EJ, Garbow JR, Maier SE, Inder TE, Williams CE, Neil JJ, Huppi PS. Developmental changes and injury induced disruption of the radial organization of the cortex in the immature rat brain revealed by in vivo diffusion tensor MRI. Cerebral Cortex. 2007; 17: 2609–17.
+239 	Takahashi E, Dai G, Rosen GD, Wang R, Ohki K, Folkerth RD, Galaburda AM, Wedeen VJ, Ellen Grant P. Developing neocortex organization and connectivity in cats revealed by direct correlation of diffusion tractography and histology. Cerebral Cortex. 2011; 21: 200–11.
+240 	Wedeen VJ, Song S, Wald L, Reese TG, Benner T, Tseng W. Diffusion spectrum MRI of cortical architectonics : visualization of cortical layers and segmentation of cortical areas by analysis of planar structure. In: Proceedings of the International Society for Magnetic Resonance in Medicine. Kyoto, Japan, 2004, p 622.
+241 	Dyrby TB, Baaré WFC, Alexander DC, Jelsing J, Garde E, Søgaard L V. An ex vivo imaging pipeline for producing high-quality and high-resolution diffusion-weighted imaging datasets. Human Brain Mapping. 2011; 32: 544–63.
+242 	Shepherd TM, Ozarslan E, Yachnis AT, King MA, Blackband SJ. Diffusion tensor microscopy indicates the cytoarchitectural basis for diffusion anisotropy in the human hippocampus. AJNR American Journal of Neuroradiology. 2007; 28: 958–64.
+243 	Benner T, Bakkour A, Wang R, Dickerson B. High resolution ex-vivo diffusion imaging and fiber tracking. In: Proceedings of the International Society for Magnetic Resonance in Medicine. Stockholm, Sweden, 2009, p 3535.
+244 	McNab JA, Polimeni JR, Wang R, Augustinack JC, Fujimoto K, Stevens A, Triantafyllou C, Janssens T, Farivar R, Folkerth RD, Vanduffel W, Wald LL. Surface based analysis of diffusion orientation for identifying architectonic domains in the in vivo human cortex. NeuroImage. 2013; 69: 87–100.
+245 	Leuze C, Dhital B, Anwander A, Pampel A, Heidemann R, Geyer S, Gratz M, Turner R. Visualization of the orientational structure of the human Stria of Gennari with high-resolution DWI. In: Proceedings of the International Society for Magnetic Resonance in Medicine. Quebec City, Canada, 2011, p 2371.
+246 	Parker GD, Marshall D, Rosin PL, Drage N, Richmond S, Jones DK. A pitfall in the reconstruction of fibre ODFs using spherical deconvolution of diffusion MRI data. NeuroImage. 2013; 65: 433–48.
+247 	Dell’Acqua F, Scifo P, Rizzo G, Catani M, Simmons A, Scotti G, Fazio F. A modified damped Richardson-Lucy algorithm to reduce isotropic background effects in spherical deconvolution. NeuroImage. 2010; 49: 1446–58.
+248 	Vrenken H, Pouwels PJW, Geurts JJG, Knol DL, Polman CH, Barkhof F, Castelijns JA. Altered diffusion tensor in multiple sclerosis normal-appearing brain tissue: cortical diffusion changes seem related to clinical deterioration. Journal of Magnetic Resonance Imaging. 2006; 23: 628–36.
+249 	Senda J, Kato S, Kaga T, Ito M, Atsuta N, Nakamura T, Watanabe H, Tanaka F, Naganawa S, Sobue G. Progressive and widespread brain damage in ALS: MRI voxel-based morphometry and diffusion tensor imaging study. Amyotrophic Lateral Sclerosis. 2011; 12: 59–69.
+250 	Canu E, McLaren DG, Fitzgerald ME, Bendlin BB, Zoccatelli G, Alessandrini F, Pizzini FB, Ricciardi GK, Beltramello A, Johnson SC, Frisoni GB. Mapping the structural brain changes in Alzheimer’s disease: the independent contribution of two imaging modalities. Journal of Alzheimer’s Disease. 2011; 26 Suppl 3: 263–74.
+251 	Barazany D, Assaf Y. Visualization of cortical lamination patterns with magnetic resonance imaging. Cerebral Cortex. 2012; 22: 2016–23.
+252 	Cohen-Adad J, Polimeni JR, Helmer KG, Benner T, McNab JA, Wald LL, Rosen BR, Mainero C. T2* mapping and B0 orientation-dependence at 7T reveal cyto- and myeloarchitecture organization of the human cortex. NeuroImage. 2012; 60: 1006–14.
+253 	Glasser MF, Van Essen DC. Mapping human cortical areas in vivo based on myelin content as revealed by T1- and T2-weighted MRI. The Journal of Neuroscience. 2011; 31: 11597–616.
+254 	Heidemann RM, Anwander A, Feiweier T, Knösche TR, Turner R. k-space and q-space: combining ultra-high spatial and angular resolution in diffusion imaging using ZOOPPA at 7 T. NeuroImage. 2012; 60: 967–78.
+255 	Takahashi E, Dai G, Wang R, Ohki K, Rosen GD, Galaburda AM, Grant PE, Wedeen VJ. Development of cerebral fiber pathways in cats revealed by diffusion spectrum imaging. NeuroImage. 2010; 49: 1231–40.
+256 	Catani M, Thiebaut de Schotten M. A diffusion tensor imaging tractography atlas for virtual in vivo dissections. Cortex. 2008; 44: 1105–32.
+257 	Jbabdi S, Johansen-Berg H. Tractography: where do we go from here? Brain Connectivity. 2011; 1: 169–83.
+258 	Vestergaard-Poulsen P, Wegener G, Hansen B, Bjarkam CR, Blackband SJ, Nielsen NC, Jespersen SN. Diffusion-weighted MRI and quantitative biophysical modeling of hippocampal neurite loss in chronic stress. PloS One. 2011; 6: e20653.
+259 	Kaden E, Knösche TR, Anwander A. Parametric spherical deconvolution: inferring anatomical connectivity using diffusion MR imaging. NeuroImage. 2007; 37: 474–88.
+260 	Sotiropoulos SN, Behrens TEJ, Jbabdi S. Ball and rackets: Inferring fiber fanning from diffusion-weighted MRI. NeuroImage. 2012; 60: 1412–25.
+261 	Rowe M, Zhang HG, Oxtoby N, Alexander DC. Beyond Crossing Fibers : Tractography Exploiting Sub-voxel Fibre Dispersion and Neighbourhood Structure. In: Information Processing in Medical Imaging; Lecture Notes in Computer Science 7917. 2013, pp 402–13.
+262 	Sotiropoulos SN, Chen C, Dikranian K, Jbabdi S, Behrens TEJ, Van Essen DC, Glasser MF. Comparison of diffusion MRI predictions and histology in the macaque brain. In: Proceedings of the International Society for Magnetic Resonance in Medicine. 2013, p 835.
+263 	Eichner C, Setsompop K, Koopmans PJ, Lützkendorf R, Norris DG, Turner R, Wald LL, Heidemann RM. Slice accelerated diffusion-weighted imaging at ultra-high field strength. Magnetic Resonance in Medicine. 2013. doi:10.1002/mrm.24809.
+264 	Sotiropoulos SN, Jbabdi S, Xu J, Andersson JL, Moeller S, Auerbach EJ, Glasser MF, Hernandez M, Sapiro G, Jenkinson M, Feinberg DA, Yacoub E, Lenglet C, Van Essen DC, Ugurbil K, Behrens TEJ. Advances in diffusion MRI acquisition and processing in the Human Connectome Project. NeuroImage. 2013; 80: 125–43.
+265 	Miller KL, McNab JA, Jbabdi S, Douaud G. Diffusion tractography of post-mortem human brains: optimization and comparison of spin echo and steady-state free precession techniques. NeuroImage. 2012; 59: 2284–97.
+266 	Kleinnijenhuis M, Zerbi V, Küsters B, Slump CH, Barth M, van Cappellen van Walsum A-M. Layer-specific diffusion weighted imaging in human primary visual cortex in vitro. Cortex. 2012; 49: 1–14.
+267 	Leuze CWU, Anwander A, Bazin P-L, Dhital B, Stüber C, Reimann K, Geyer S, Turner R. Layer-Specific Intracortical Connectivity Revealed with Diffusion MRI. Cerebral Cortex. 2012. doi:10.1093/cercor/bhs311.
+268 	Dell’Acqua F, Bodi I, Slater D, Catani M, Modo M. MR diffusion histology and micro-tractography reveal mesoscale features of the human cerebellum. Cerebellum. 2013; 12: 923–31.
+269 	Budde MD, Frank JA. Examining brain microstructure using structure tensor analysis of histological sections. NeuroImage. 2012; 63: 1–10.
+270 	Barmpoutis A, Zhuo J. Diffusion kurtosis imaging: Robust estimation from DW-MRI using homogeneous polynomials. In: International Symposium on Biomedical Imaging: From Nano to Macro. 2011, pp 262–5.
+271 	Greve DN, Fischl B. Accurate and robust brain image alignment using boundary-based registration. NeuroImage. 2009; 48: 63–72.
+272 	Jespersen SN, Bjarkam CR, Nyengaard JR, Mallar Chakravarty M, Hansen B, Vosegaard T, Østergaard L, Yablonskiy D, Nielsen NC, Vestergaard-Poulsen P. Neurite density from magnetic resonance diffusion measurements at ultrahigh field: comparison with light microscopy and electron microscopy. NeuroImage. 2010; 49: 205–16.
+273 	Wang S, Chopp M, Nazem-Zadeh M-R, Ding G, Nejad-Davarani SP, Qu C, Lu M, Li L, Davoodi-Bojd E, Hu J, Li Q, Mahmood A, Jiang Q. Comparison of neurite density measured by MRI and histology after TBI. PloS One. 2013; 8: e63511.
+274 	Bastiani M, Brenner D, Moellenhoff K, Seehaus A, Celik A, Felder J, Matusch A, Galuske R, Bratzke H, Shah NJ, Goebel R, Roebroeck A. Cortical fiber insertions and automated layer classification in human motor cortex from 9.4T diffusion MRI. In: Proceedings of the International Society for Magnetic Resonance in Medicine. 2013, p 2124.
+275 	Budde MD, Annese J. Quantification of anisotropy and fiber orientation in human brain histological sections. Frontiers in Integrative Neuroscience. 2013; 7: 1–8.
+276 	Deng F, Jiang X, Zhu D, Zhang T, Li K, Guo L, Liu T. A functional model of cortical gyri and sulci. Brain Structure & Function. 2013. doi:10.1007/s00429-013-0581-z.
+277 	Waehnert MD, Dinse J, Weiss M, Streicher MN, Waehnert P, Geyer S, Turner R, Bazin P-L. Anatomically motivated modeling of cortical laminae. NeuroImage. 2013. doi:10.1016/j.neuroimage.2013.03.078.
+278 	Kiernan JA. Histological and Histochemical Methods: Theory and Practice. 3rd ed. Butterworth-Heinemann: Oxford, 1999.
+279 	Leuze CWU, Anwander A, Geyer S, Bazin P-L, Turner R. High-resolution diffusion-weighted imaging of the orientational structure of motor and somatosensory cortex in human cadaver brain. In: Proceedings of the International Society for Magnetic Resonance in Medicine. Melbourne, Australia, 2012, p 3594.
+280 	Winston GP, Micallef C, Symms MR, Alexander DC, Duncan JS, Zhang H. Advanced diffusion imaging sequences could aid assessing patients with focal cortical dysplasia and epilepsy. Epilepsy Research. 2013. doi:10.1016/j.eplepsyres.2013.11.004.
+281 	Johansen-Berg H, Scholz J, Stagg CJ. Relevance of structural brain connectivity to learning and recovery from stroke. Frontiers in Systems Neuroscience. 2010; 4: 146.
+282 	Kutzelnigg A, Lucchinetti CF, Stadelmann C, Brück W, Rauschka H, Bergmann M, Schmidbauer M, Parisi JE, Lassmann H. Cortical demyelination and diffuse white matter injury in multiple sclerosis. Brain. 2005; 128: 2705–12.
+283 	Anderton BH, Callahan L, Coleman P, Davies P, Flood D, Jicha G a., Ohm T, Weaver C. Dendritic changes in Alzheimer’s disease and factors that may underlie these changes. Progress in Neurobiology. 1998; 55: 595–609.
+284 	Setsompop K, Kimmlingen R, Eberlein E, Witzel T, Cohen-Adad J, McNab JA, Keil B, Tisdall MD, Hoecht P, Dietz P, Cauley SF, Tountcheva V, Matschl V, Lenz VH, Heberlein K, Potthast A, Thein H, … Wald LL. Pushing the limits of in vivo diffusion MRI for the Human Connectome Project. NeuroImage. 2013; 80: 220–33.
+285 	McNab JA, Edlow BL, Witzel T, Huang SY, Bhat H, Heberlein K, Feiweier T, Liu K, Keil B, Cohen-Adad J, Tisdall MD, Folkerth RD, Kinney HC, Wald LL. The Human Connectome Project and beyond: Initial applications of 300mT/m gradients. NeuroImage. 2013; 80: 234–45.
+286 	Richman DP, Stewart RM, Hutchinson JW, Caviness VS. Mechanical model of brain convolutional development. Science. 1975; 189: 18–21.
+287 	Kriegstein A, Noctor S, Martínez-Cerdeño V. Patterns of neural stem and progenitor cell division may underlie evolutionary cortical expansion. Nature Reviews Neuroscience. 2006; 7: 883–90.
+288 	Ronan L, Voets N, Rua C, Alexander-Bloch A, Hough M, Mackay C, Crow TJ, James A, Giedd JN, Fletcher PC. Differential Tangential Expansion as a Mechanism for Cortical Gyrification. Cerebral Cortex. 2013. doi:10.1093/cercor/bht082.
+289 	Van Essen DC. A tension-based theory of morphogenesis and compact wiring in the central nervous system. Nature. 1997; 385: 313–8.
+290 	Bok S. Der Einfluß der in den Furchen und Windungen auftretenden Krümmungen der Großhirnrinde auf die Rindenarchitektur. Z Gesamte Neurol Psychiatr. 1929; 12: 682–750.
+291 	Frost R, Miller KL, Tijssen RHN, Porter DA, Jezzard P. 3D Multi-slab diffusion-weighted readout-segmented EPI with real-time cardiac-reordered k-space acquisition. Magnetic Resonance in Medicine. 2013. doi:10.1002/mrm.25062.
+292 	Porter DA, Heidemann RM. High resolution diffusion-weighted imaging using readout-segmented echo-planar imaging, parallel imaging and a two-dimensional navigator-based reacquisition. Magnetic Resonance in Medicine. 2009; 62: 468–75.
+293 	Kleinnijenhuis M, Zhang H, Wiedermann D, Küsters B, Dederen PJ, Norris DG, van Cappellen van Walsum A-M. Fibres in the gyrus: characteristics in ex vivo diffusion MRI and histology. Brain Structure and Function. 2013.
+294 	Xu G, Knutsen AK, Dikranian K, Kroenke CD, Bayly P V, Taber LA. Axons pull on the brain, but tension does not drive cortical folding. Journal of Biomechanical Engineering. 2010; 132: 071013.
+295 	Kleinnijenhuis M, Zhang H, Wiedermann D, Küsters B, Norris DG, van Cappellen van Walsum A-M. Detailed laminar characteristics of the human neocortex revealed by NODDI and histology. In: Human Brain Mapping. Seattle, WA, USA, 2013, p 3815.
+296 	Nie J, Guo L, Li K, Wang Y, Chen G, Li L, Chen H, Deng F, Jiang X, Zhang T, Huang L, Faraco C, Zhang D, Guo C, Yap P-T, Hu X, Li G, … Liu T. Axonal fiber terminations concentrate on gyri. Cerebral Cortex. 2012; 22: 2831–9.
+297 	Chen H, Zhang T, Guo L, Li K, Yu X, Li L, Hu X, Han J, Hu X, Liu T. Coevolution of gyral folding and structural connection patterns in primate brains. Cerebral Cortex. 2013; 23: 1208–17.
+298 	Sereno MI, Lutti A, Weiskopf N, Dick F. Mapping the human cortical surface by combining quantitative T(1) with retinotopy. Cerebral Cortex. 2013; 23: 2261–8.
+299 	Koopmans PJ, Barth M, Orzada S, Norris DG. Multi-echo fMRI of the cortical laminae in humans at 7 T. NeuroImage. 2011; 56: 1276–85.
+300 	Nagy Z, Alexander DC, Thomas DL, Weiskopf N, Sereno MI. Using high angular resolution diffusion imaging data to discriminate cortical regions. PloS One. 2013; 8: e63842.
+301 	Le Bihan D. Looking into the functional architecture of the brain with diffusion MRI. Nature Reviews Neuroscience. 2003; 4: 469–80.
+302 	Ciccarelli O, Catani M, Johansen-Berg H, Clark C, Thompson A. Diffusion-based tractography in neurological disorders: concepts, applications, and future developments. Lancet Neurology. 2008; 7: 715–27.
+303 	Mori S, Oishi K, Faria A V. White matter atlases based on diffusion tensor imaging. Current Opinion in Neurology. 2009; 22: 362–9.
+304 	Johansen-Berg H, Rushworth MFS. Using diffusion imaging to study human connectional anatomy. Annual Review of Neuroscience. 2009; 32: 75–94.
+305 	Le Bihan D, Johansen-Berg H. Diffusion MRI at 25: exploring brain tissue structure and function. NeuroImage. 2012; 61: 324–41.
+306 	Schmahmann JD, Smith EE, Eichler FS, Filley CM. Cerebral white matter: neuroanatomy, clinical neurology, and neurobehavioral correlates. Annals of the New York Academy of Sciences. 2008; 1142: 266–309.
+307 	Dimou S, Battisti RA, Hermens DF, Lagopoulos J. A systematic review of functional magnetic resonance imaging and diffusion tensor imaging modalities used in presurgical planning of brain tumour resection. Neurosurgical Review. 2013; 36: 205–14; discussion 214.
+308 	Familiari G, Relucenti M, Heyn R, Baldini R, D’Andrea G, Familiari P, Bozzao A, Raco A. The value of neurosurgical and intraoperative magnetic resonance imaging and diffusion tensor imaging tractography in clinically integrated neuroanatomy modules: A cross-sectional study. Anatomical Sciences Education. 2013; 6: 294–306.
+309 	Filley CM. The behavioral neurology of cerebral white matter. Neurology. 1998; 50: 1535–40.
+310 	Filley CM. White matter and behavioral neurology. Annals of the New York Academy of Sciences. 2005; 1064: 162–83.
+311 	Marks SC. The role of three-dimensional information in health care and medical education: the implications for anatomy and dissection. Clinical Anatomy. 2000; 13: 448–52.
+312 	Estevez ME, Lindgren KA, Bergethon PR. A novel three-dimensional tool for teaching human neuroanatomy. Anatomical Sciences Education. 2010; 3: 309–17.
+313 	Nolte J, Angevine JB. The Human Brain in Photographs and Diagrams. 3rd Ed. Mosby Inc., 2007.
+314 	Moon K, Filis AK, Cohen AR. The birth and evolution of neuroscience through cadaveric dissection. Neurosurgery. 2010; 67: 799–809; discussion 809–10.
+315 	Klingler J. Erleichterung der makrokopischen Präparation des Gehirns durch den Gefrierprozess. Schweizer Archiv Für Neurologie Und Psychiatrie. 1935; 36: 247–56.
+316 	Ludwig E, Klingler J. Atlas Cerebri Humani: Der innere Bau des Gehirns dargestellt auf Grund mackroskopischer Praeparate. S. Karger: Basel, Switzerland, 1956.
+317 	Klingler J, Gloor P. The connections of the amygdala and of the anterior temporal cortex in the human brain. The Journal of Comparative Neurology. 1960; 115: 333–69.
+318 	Agrawal A, Kapfhammer JP, Kress A, Wichers H, Deep A, Feindel W, Sonntag VKH, Spetzler RF, Preul MC. Josef Klingler’s models of white matter tracts: influences on neuroanatomy, neurosurgery, and neuroimaging. Neurosurgery. 2011; 69: 238–52; discussion 252–4.
+319 	Peuskens D, van Loon J, Van Calenbergh F, van den Bergh R, Goffin J, Plets C. Anatomy of the Anterior Temporal Lobe and the Frontotemporal Region Demonstrated by Fiber Dissection. Neurosurgery. 2004; 55: 1174–84.
+320 	Fernández-Miranda JC, Rhoton AL, Kakizawa Y, Choi C, Alvarez-Linera J. The claustrum and its projection system in the human brain: a microsurgical and tractographic anatomical study. Journal of Neurosurgery. 2008; 108: 764–74.
+321 	Von Hagens G. Impregnation of soft biological specimens with thermosetting resins and elastomers. The Anatomical Record. 1979; 194: 247–55.
+322 	Von Hagens G, Tiedemann K, Kriz W. The current potential of plastination. Anatomy and Embryology. 1987; 175: 411–21.
+323 	Pashaei S. A brief review on the history, methods and applications of plastination. International Journal of Morphology. 2010; 28: 1075–9.
+324 	Weiglein AH. Plastination in the neurosciences. Keynote lecture. Acta Anatomica. 1997; 158: 6–9.
+325 	Jones DG. Re-inventing anatomy: the impact of plastination on how we see the human body. Clinical Anatomy. 2002; 15: 436–40.
+326 	Reidenberg JS, Laitman JT. The new face of gross anatomy. The Anatomical Record. 2002; 269: 81–8.
+327 	Ulfig N, Wuttke M. Plastination of stained sections of the human brain. Anatomischer Anzeiger. 1990; 170: 309–12.
+328 	Suriyaprapadilok L, Withyachumnarnkul B. Plastination of stained sections of the human brain: Comparison between different staining methods. Journal of the International Society for Plastination. 1997; 12: 27–32.
+329 	Sora M-C, Brugger P, Traxler H. P40 plastination of human brain slices: comparison between different immersion and impregnation conditions. Journal of the International Society for Plastination. 1999; 14: 22–4.
+330 	Baeres FM, Møller M. Plastination of dissected brain specimens and Mulligan-stained sections of the human brain. European Journal of Morphology. 2001; 39: 307–11.
+331 	Wadood AA, Jabbar A, Das N. Plastination of whole brain specimen and brain slices. Journal of Ayub Medical College, Abbottabad.; 13: 11–3.
+332 	Steinke H, Pfeiffer S, Spanel-Borowski K. A new plastination technique for head slices containing brain. Annals of Anatomy. 2002; 184: 353–8.
+333 	Riederer BM. Plastination and its importance in teaching anatomy. Critical points for long-term preservation of human tissue. Journal of Anatomy. 2013. doi:10.1111/joa.12056.
+334 	Gluhbegovic N, Williams T. The Human Brain. A Photographic Guide. 1st Ed. Harper & Row, Inc.: Hagerstown, MD, 1980.
+335 	Castro I de, Christoph D de H, Santos DP dos, Landeiro JA. Internal structure of the cerebral hemispheres: an introduction of fiber dissection technique. Arquivos de Neuro-Psiquiatria. 2005; 63: 252–8.
+336 	Raoof A, Henry R, Reed R. Silicone plastination of biological tissue: Room-temperature technique Dow/Corcoran technique and products. Journal of the International Society for Plastination. 2007; 22: 21–5.
+337 	DeJong K, Henry R. Silicone plastination of Biological tissue: Cold-temperature technique-Biodur TM S10/S15 technique and products. Journal of the International Society for Plastination. 2007; 22: 2–14.
+338 	Tournier J-D, Calamante F, Connelly A. MRtrix: Diffusion tractography in crossing fiber regions. International Journal of Imaging Systems and Technology. 2012; 22: 53–66.
+339 	Van Baarsen K, Kleinnijenhuis M, Konert T, van Cappellen van Walsum A-M, Grotenhuis A. Tractography Demonstrates Dentate-rubro-thalamic Tract Disruption in an Adult with Cerebellar Mutism. Cerebellum. 2013; 12: 617–22.
+340 	Henry R, Reed R, Henry C. “Classic” silicone processed specimens vs “new formula” silicone plastinated specimens: A two year study. Journal of the International Society for Plastination. 2001; 16: 33.
+341 	Henry R. Silicone plastination of biological tissue: cold-temperature technique North Carolina technique and products. Journal of the International Society for Plastination. 2007; 22: 26–30.
+342 	Sugand K, Abrahams P, Khurana A. The anatomy of anatomy: a review for its modernization. Anatomical Sciences Education. 2010; 3: 83–93.
+343 	National Toxicology Program. Final Report on Carcinogens Background Document for Formaldehyde. Research triangle Park, NC, 2010.
+344 	Hammer N, Löffler S, Feja C, Sandrock M, Schmidt W, Bechmann I, Steinke H. Ethanol-glycerin fixation with thymol conservation: a potential alternative to formaldehyde and phenol embalming. Anatomical Sciences Education. 2012; 5: 225–33.
+345 	Roda-Murillo O, López-Soler M, Roda-Murillo A, Ramírez-Ortiz I. Plastination in the teaching of neuroanatomy. European Journal of Anatomy. 2006; 10: 85–9.
+346 	Latorre RM, García-Sanz MP, Moreno M, Hernández F, Gil F, López O, Ayala MD, Ramírez G, Vázquez JM, Arencibia A, Henry RW. How useful is plastination in learning anatomy? Journal of Veterinary Medical Education. 2007; 34: 172–6.
+347 	Fruhstorfer BH, Palmer J, Brydges S, Abrahams PH. The use of plastinated prosections for teaching anatomy--the view of medical students on the value of this learning resource. Clinical Anatomy. 2011; 24: 246–52.
+348 	Nnodim JO. Learning human anatomy: by dissection or from prosections? Medical Education. 1990; 24: 389–95.
+349 	Nnodim JO, Ohanaka EC, Osuji CU. A follow-up comparative study of two modes of learning human anatomy: by dissection and from prosections. Clinical Anatomy. 1996; 9: 258–62.
+350 	Cornwall J. The diverse utility of wet prosections and plastinated specimens in teaching gross anatomy in New Zealand. Anatomical Sciences Education. 2011; 4: 269–74.
+351 	Drake RL, McBride JM, Lachman N, Pawlina W. Medical education in the anatomical sciences: the winds of change continue to blow. Anatomical Sciences Education. 2009; 2: 253–9.
+352 	Winkelmann A. Anatomical dissection as a teaching method in medical school: a review of the evidence. Medical Education. 2007; 41: 15–22.
+353 	DeHoff ME, Clark KL, Meganathan K. Learning outcomes and student-perceived value of clay modeling and cat dissection in undergraduate human anatomy and physiology. Advances in Physiology Education. 2011; 35: 68–75.
+354 	Collins JP. Modern approaches to teaching and learning anatomy. BMJ (Clinical Research Ed). 2008; 337: a1310.
+355 	Jastrow H, Vollrath L. Teaching and learning gross anatomy using modern electronic media based on the visible human project. Clinical Anatomy. 2003; 16: 44–54.
+356 	Nicholson DT, Chalk C, Funnell WRJ, Daniel SJ. Can virtual reality improve anatomy education? A randomised controlled study of a computer-generated three-dimensional anatomical ear model. Medical Education. 2006; 40: 1081–7.
+357 	Sergovich A, Johnson M, Wilson TD. Explorable three-dimensional digital model of the female pelvis, pelvic contents, and perineum for anatomical education. Anatomical Sciences Education. 2010; 3: 127–33.
+358 	Venail F, Deveze A, Lallemant B, Guevara N, Mondain M. Enhancement of temporal bone anatomy learning with computer 3D rendered imaging software. Medical Teacher. 2010; 32: e282–8.
+359 	Adams CM, Wilson TD. Virtual cerebral ventricular system: an MR-based three-dimensional computer model. Anatomical Sciences Education. 2011; 4: 340–7.
+360 	Codd A, Choudhury B. Virtual reality anatomy: Is it comparable with traditional methods in the teaching of human forearm musculoskeletal anatomy? Anatomical Sciences Education. 2011.http://onlinelibrary.wiley.com/doi/10.1002/ase.214/full (accessed 29 Oct2013).
+361 	Nguyen N, Nelson AJ, Wilson TD. Computer visualizations: factors that influence spatial anatomy comprehension. Anatomical Sciences Education. 2012; 5: 98–108.
+362 	Waters JR, Van Meter P, Perrotti W, Drogo S, Cyr RJ. Cat dissection vs. sculpting human structures in clay: an analysis of two approaches to undergraduate human anatomy laboratory education. Advances in Physiology Education. 2005; 29: 27–34.
+363 	Motoike HK, O’Kane RL, Lenchner E, Haspel C. Clay modeling as a method to learn human muscles: A community college study. Anatomical Sciences Education. 2009; 2: 19–23.
+364 	Oh C-S, Kim J-Y, Choe YH. Learning of cross-sectional anatomy using clay models. Anatomical Sciences Education. 2009; 2: 156–9.
+365 	Wakana S, Jiang H, Nagae-Poetscher LM, van Zijl PCM, Mori S. Fiber tract-based atlas of human white matter anatomy. Radiology. 2004; 230: 77–87.
+366 	Mori S, Wakana S, Nagae-Poetscher L, van Zijl P. MRI Atlas of Human White Matter. 1st Ed. Elsevier B.V.: Amsterdam, The Netherlands, 2005.
+367 	Skadorwa T, Kunicki J, Nauman P, Ciszek B. Image-guided dissection of human white matter tracts as a new method of modern neuroanatomical training. Folia Morphologica. 2009; 68: 135–9.
+368 	Heiervang E, Behrens TEJ, Mackay CE, Robson MD, Johansen-Berg H. Between session reproducibility and between subject variability of diffusion MR and tractography measures. NeuroImage. 2006; 33: 867–77.
+369 	Clatworthy PL, Williams GB, Acosta-Cabronero J, Jones SP, Harding SG, Johansen-Berg H, Baron J-C. Probabilistic tractography of the optic radiations--an automated method and anatomical validation. NeuroImage. 2010; 49: 2001–12.
+370 	Khot Z, Quinlan K, Norman GR, Wainman B. The relative effectiveness of computer-based and traditional resources for education in anatomy. Anatomical Sciences Education. 2013; 6: 211–5.
+371 	Catani M, Jones DK, Ffytche DH. Perisylvian language networks of the human brain. Annals of Neurology. 2005; 57: 8–16.
+372 	Senden M, Goebel R, Deco G. Structural connectivity allows for multi-threading during rest: the structure of the cortex leads to efficient alternation between resting state exploratory behavior and default mode processing. NeuroImage. 2012; 60: 2274–84.
+373 	Kubicki M, McCarley R, Westin C-F, Park H-J, Maier S, Kikinis R, Jolesz FA, Shenton ME. A review of diffusion tensor imaging studies in schizophrenia. Journal of Psychiatric Research. 2007; 41: 15–30.
+374 	Deistung A, Schäfer A, Schweser F, Biedermann U, Turner R, Reichenbach JR. Toward in vivo histology: a comparison of quantitative susceptibility mapping (QSM) with magnitude-, phase-, and R2*-imaging at ultra-high magnetic field strength. NeuroImage. 2013; 65: 299–314.
+375 	Geyer S, Weiss M, Reimann K, Lohmann G, Turner R. Microstructural Parcellation of the Human Cerebral Cortex - From Brodmann’s Post-Mortem Map to in vivo Mapping with High-Field Magnetic Resonance Imaging. Frontiers in Human Neuroscience. 2011; 5: 19.
+376 	Shepherd TM, Flint JJ, Thelwall PE, Stanisz GJ, Mareci TH, Yachnis AT, Blackband SJ. Postmortem interval alters the water relaxation and diffusion properties of rat nervous tissue--implications for MRI studies of human autopsy samples. NeuroImage. 2009; 44: 820–6.
+377 	D’Arceuil H, de Crespigny A. The effects of brain tissue decomposition on diffusion tensor imaging and tractography. NeuroImage. 2007; 36: 64–8. 

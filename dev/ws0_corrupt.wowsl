@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7.1</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>true</FullScreen>
+            <GalleryName>ws0</GalleryName>
+            <GallerySuffix>2</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>basic</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>/Applications/WOWSlider.app/Contents/Resources/templates/backgnd/chrome/</ImageTemplate>
+            <ImageTemplateName>Chrome</ImageTemplateName>
+            <ImageWidth>600</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>/Users/michielk/workspace/www/dev/gallery.html</PublishFileName>
+            <PublishIndex>gallery.html</PublishIndex>
+            <PublishPath>/Users/michielk/workspace/www/dev</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>7</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#000000</TemplateColor>
+            <TemplateFont>Tahoma</TemplateFont>
+            <TemplateName>chrome</TemplateName>
+            <ThumbAlign>left</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>https://www.youtube.com/watch?v=-97oh-akajc&amp;t=25s</url>
+                <title>Fibre bridges</title>
+                <description>The 2 minute animation flies through the fibre neuroanatomy of the brain, in particular the corpus callosum.
+It starts within a myelinated axon, where you see diffusing water molecules that are the basis of diffusion MRI. Pulling out through the myelin sheath's lipid bilayers, the axon is kept in focus and is shown in the 3D electron microscopy dataset from which it was segmented. It is joined in a colourful display by all other myelinated axons from this dataset. Fibres are then seen shooting out laterally as growing streamlines. The EM dataset fades to reveal the data at the next scale: polarized light imaging. Raw images taken with different polarizer rotations combine into a brightly coloured map indicating fibre orientations. Zooming out further, anatomical MRI data is added to the PLI sections. A representation of the fibres from tractography is projected in front of the PLI section. The whole-brain level becomes visible as a fractional anisotropy map that fades in. Corpus callosum tractography streamlines are grown from the midline and joined by the superior longitudinal fasciculus III and spinal cord projections. The whole-brain colour-coded tractogram is rendered and encapsulated by the pial surfaces. Pulling back further reveals the population level, where the many brains morph into diffusing particles to close the circle. Created with NeuroBlender.</description>
+                <userurl>https://www.youtube.com/watch?v=-97oh-akajc&amp;t=25s</userurl>
+                <filesize>0</filesize>
+                <thumbnail format="PNG">iVBORw0KGgoAAAANSUhEUgAAAGQAAAA4CAIAAACEzMqPAAAACXBIWXMAAAsTAAALEwEAmpwYAAAgAElEQVR4nK27ya/tSXLf942IzN94hju9e+8b6tWrsefqbrpJ2gsCMgUJpiFvLNgmF4Rt8B+w4YW9Umlhb7zwzvbCAiwIEEVLtsWmSNGkaFIgRYlNNruL3c3uml+96b53xzP+xsyM8OJVVVdXFakm4MDBD4HMX+b55QffiBMnTx56+2/9T3v5jYx3Ew5ZbgpNh7TVdEV22cbTLp1fDGe5VBV7RZMzxtQNmheyu45dn2wRNjlL1MDEo27fbte/cfHaD9r3ItTMiAgf2FP/6QVANS3j2Iurh64FAALhaR+xUFmXQ9vv7s7Wq20Cg4wZDHpqABHxBxPShw4zf9jy/ls/ve9HTAAQO/I5O6bMyBEzE0BGlvRoav/RX5t94bOT/d0sCzTPneaUZ6Kt0uY/+ZMhPdqGh8liJTuZu0l0PWCuZovhwfV8r43vJn0sCOtwPmrvCIN5pjnBr0OjYLVEZGNKo3aD6aDurfb+7199+83+dEhJCQAD9uGS3mfH5JxPMRkMAIOI6UOsxJxlXiOApAAxMYHfn4E/cv0hF2b+KLiP9n7c4MDMecG5gMCOCAlGYumVF7J//9+d7R/nkx23hVWV29txkosPVq5A/X/2R4ICJG1cbcLJajytRBPl+/lPnfThbHjyyvwV1ZMMi004GXXRxM0mbhwy0DyhCBonrurSeh07Tx7gTkOfOodhGR+8Mbz3zXY9j/M3+8VFbBWwj4jrfSEROSJjYoIZPwULAExsRGxm7+tDBDDCD8VF+MB7CutDZX30+nGIRETCzlGRiXMwAMrQ3dq+9uXq5ssFHfpq4qdqu7tZw9gKDck6xxKNxp9/02wFtISMKBvTpkt9m8KT/vwo3zPDJsncTwtmwWi26OJZk9bbuCH4UYnIGXzO0sZt0ESUMSjaWm3dpst3uyevh8vn5HYl+ydD+/32wffbk1aTPQ08NiE2JhAxDEymxAIQoAywmRJ9KCIIE4GfAgbhL9HOX9T1/hgn7B3nTJQhKafxuX3/s1+Z3X6+2L+R13su33N9wiTCDeQypoxGwwNWir/wpwnXhZjskrAZ4oYhRPVg2SacltSoddF4GYZSyokrksZOW9jYpWWyPqoOpoxsSGNAYvRJUTAt41W0uAjN2fiw4J3D7PrEOYfhyRju9levd5cPh9VV6htLzMYsxIhMifA+rMAWWC09jd/3kw0Ts2NDAkD2UQT0ownrU5X1ISz2jj1zzhnwygv5Zw6Lm1X+0svVZM+hprJy1Y5vKQXPbas4T7uj1HNpTSn+wu+kuAQfgu8IlcDG9EJTrzBGzlLFtFqPD0PajGZdirXzOTmQG9UMsYuLTTj3pMGoVSZwslEobGLnaRosXY13hfRavjeRijAOphfD0qiHVZfx8spt+1q3qwDFtpu+F+wMl0MWU9K+A6m9ryCQCJyIaSbEiRKgH/Divyi704/msh92eXYT/sKd6m9+bXZ96seV7l7PZ3NXOynnwpkIIFMeek2KLexCtXkS70RP8Re+AWthmyEuiPbEf9nJlHSrulTd9HHDZI7LqIi6INt2qSGyLg2KgpEPOqolwhCsC3rJ4G3aNlEdzwupTIdBF8BgYM/Jk7sc1zNPTJuRhj6LF9PQjOnsclx1er6tSrlZc38ShtPU3Q+PzcwsgMg7EYIiAzkSgwEUoCAyhoCA9xX0Q1yfjEQmIgGJHF13f+tn9l54vnRrqmuhhZWFSE3Ta5nu0HbU1lk2dSnhaDfL11YOdEb6ukVKv/ho271bSAi6EFZH/XYsq+wrzh0jNSE9ZjSqy6BdsBzIkm6TtYNuGczQwWwbR0dBzQopl+NlkyzZiolgGXNeCwXtAAEatUFoCNobxoUuekNbj5vRThZoqQ39NaFJr2OC7OYvnYTzN9o/TTT2mlgsL+TQ51mAoriI45ZGI5ASDEYEAvPT9M3vlyAfEMw8H5bZXkZHZX4w83u3/J3PVZOJoKAE7B3m9ffM1pa95Fiprnxq0uCwmtvippxXvCf0uSR1SyCi9J+3Zumyv8fxQS6hQEzWE7VRJ06+Iv5GDOuMt6rnfTx1hGQuGsEQbAXbRsvbJKP20bawcLdbKqpafMYxp6ESYRodSZsQrRpSG5GC9osw5tIu9QESLVIIOjsdV6NhnYqJwHN+lH/+OJ896v90qY8u4lDMrSEbBp0EqVHe8Dvg7F5cb9K2UWtUR0burBRXssRk3nNV4+YsP2Zf77pbu3mmrKDiGidv02k2OfTjAU7HMNvzBUS+HSdTlz8B3RFyRK0Vx/58M25flMW++4xzdQfZguIvPiGpIYWFgayDXiI9Bi+RhhDXwXInXwTfBMFjoekBowlpHY2C5Y4kmXUptallkiZebWK6CqGW4qg4gKXKdTFtm3g5cRq0GyxuYmhStk3OExo9VZt1aYzWj2b3+u1h8ewyrAtuDrLZ7eLaoJuz8UHk9ZXFbUyXGpStCNU1P7uWzSrGzG3YqRqkQlXJbMflgUNnzlPKQDMuTTqvs6kfSFuH+aFskmbGs6mb3cm3Ex1hXMlkS2eVzd5I105dB9vLM+xQyuzhef/4p31+nB0TzZXk777ySymFBBMRaAbagxzAMpjBBkZrej+kd2G2Tq7K7ximwgVTz7RxaBTCVDueOsqE/MwXe35aCHnOpm6XkIFcxi7jSCRd7BP8OiwCLoOdh2SbmBzlwmVvpad84qqMZ7cKn1EkxMPc55zWtGFlJbte5EeSTyqUjL087Ocas7Tn3V7lZs7dKPKZ84WXfFcKL5ExCTKZuNoLMZWVpNxkIjvHflsZ7XNYajemIaO84NUmoqKLXeqOIetUbMg1hET1nsST4ESfmXmsVV796n9h4DcWP9Akta9Il2aO5BB8JLTLkqkNjK3ZCemjTXhc+JssN0A7jkqm3GwtaAAUPJv4QwMJDTlbxmKgXCpP3nFORI6dUKlGwvUQG4Im8jt57TgnoOKl0GrQbe3KHZ8Os0kp2Y7PosXcjfu5ZMyBlEE3J/nuAecOdUlHdQYPquGVSxEMmHrHQlkpohSdhRqdWOnFdah2XF7LUBoVNNTUzGhtljaJHqfdo0wMuSc7EP+M9wRcmgzgicxvZGULl+AXLH/niz9P6K4VezU1TGw8BxvZRTtcDlpl8pzQNaGZoXfUTqRRvR/TxYjM+zvM+0J7RFnGqnYFNGreKJv4eSkZMBbsvPicy1xqodJJzXyQrMpkL2NiDEHXnsZa6ml25LnsdbwIzaHn0k1L8TNfZIQ+AkkqKkq4uWRZKlwnFbh0HIIVE3ZrmSaPyGXKCjCiooMfyBEVtdupXMzN1Uw1Zzl75dHpuqZNQWNIKHln7sIb4cnFyEcuzzjmnB26IicT8lPPwfJcOiSesbz65f8WVJBt2HpQC9uaRk1e4QgbL+OQ+sD7uXuZsAvyY1o7bJI+CfHMUcm8B3crmc+lTtrlsu3iY4Ur3CFT4YVho2PXJ21SNvfXow6O05CGJm1K7omYqGUMhG3BMOscN56tVzvMq0qmQOHJZ0yOBCZRkbGb1TT1XBRIQBF8oVmJIqfcgUoHFtIBGEhGqlqiAZkX2ZFtldyMq45h5GCrioa5q2fO73jJMTmh1bujOxKauCYj2sdkT3gGhaGDP3Jul+XVL/93ICMuDDmsJ1sRB8bWCWXZoaFkyU6adzbhvPbXnXtZ+AZzwehyaphOk76X0gq0K+6W433haSF17gZNT7oURI4LNyMMmRS1rx7356U7yqUopdv30UCe60z2S85b5YTac1nS4Dm7XUShkbkq3dRAoExtNCRIW2WxzcKo2MTY5ynWLEJs0CQzySwZggyRyNgSueCq4NwafgEO0D3olLZtdOCbe35SSoJpIbwrMqcXirz/xmC7HPYEhNWMiynlu0wDWAHHlH4pIg1pfBDTZe6nsAjrgB5wQAYj0CFkHwhIV4CDCqQi7dROLL4VdZExDWnbpip3XyjzF8iiYssUx/B4Mz5k3i9l30vJPE1p2cYRVEW9XI5vZ1xfDve3aQMKZoWRa2KnOCezeTYUXIF2j7J5hB80GoZgqlhdpdNUB7nFGTEyFElyIUocBp21uR+FVQMSnJXJF2kifgBb5jl5SzeJPsupAu/yoJpNBCWNB3IV0yLpQaKdU3TvxPJvVJMpt6DOtCKpesiZ0S2RV7/8KiCMiXCpGghEMiO+RiBYAxqBJqYLMiU5hpFZSzQCkfiA6Ej4wDAaqHQx6l2L95nBPINMRWbKw5QbxslV/+5pnOwUz6vRGBeey1l2vVMj8o4yTxK1c4xSIiF5ZpAjGjxRRmq2UlhGrpTckZWsDF3a2ISYRotJEcl1lNWs+0ZzlT20MeW5NEiDRCdgDyGxaDSjApwVMnZKNVW7zhrzT7Q+s+2cNCeaUllxVXDM2TuesYPZicdOIKogr77yXxNnYCES5pI4gzXgAjIB7cFytQG6MFsyrQ1EfKjKxAk2AGPSqDjwcptkzwzA0tM6pU07jt5NCqqgyeAql6meJptm7k4ps6SPr8ZHjsu5P062GXRbu/0hXRhxxjR1YMoyyiJCZ4uBmgEdW/LoWu0E2S7tTbt8xybm66YY6SUMlekl8Tlt87je1e2uFrmzPYyWyglnhXAJmRN9nmPANk++IDeRpMqe8KxkSvTWOAg92aUhI1+zZyyEBShBRsxsDiSvfunnSRfQBjqAHLgElZfd+TBsC1eTzMm88BzMhJHSFewx2cZo1iXPRIwk4sAZUIrcdHwLvMN2lXFLNABgVkMEOGcndnK/+V7k65V/po+X0ZaEYep3CKlNsdPNd/rvkWsSDZO8DX5dEk/Yz1xWsF2GzWhFp5NBs7Nw9cR3GPNZU9/cvFgsjqke+ts9O+w8mGAEbiOfstQ0vkh6jTCgEPG1ENkALeY+5XCHQiuQmd93fCByV3desxLW3HaDhzFuiGM1YRZCQnIi8uqX/htYA1uClrAFEUC+yo9LyZgctAVFsBHPYB5mRGa2InukugDNxV0H5wABzjiHBXJHJLcgE7O1pkdAy1wTsZpzVGa0Wg5/ugx6rf7pnFFJIsho4jkeF8fPZPtTNzR+4818iUGGRT8stHmYtttiHOtGaeVjOMquHfnp2q/v3370Lt2bFNv9q1vdWy++cXA2vrSljUzv5vIs1i7Khvw1yY9kyFNxU+KFyinGjcZbcJ6oN1ez1dRV4CnTe7pzKcU6Vc/7PnOF8WYdi1IsGZiMSV79ys+ROWBHE6Bb4ArYwlbQCI0Ag0tQBvRI50RsqJlqYhEOlN6O8Q01iBxDZoSWeNKG0bunot9nd5xSk+JJTJH5mMhHvQSCw+OT9rUe1yuZORKmQohHXRbcV1zsYXdPaE5uznKwl5U5H+7lNw+K4+t5n4fo+w2t1Moj/UrdZLPbbfhqOp2d7ujqiw+fs7NyeGUTXtLiX2ZyjdsvYi95EcgOFzd8a3HozJ+imIjsyRA0O3AwsinFCTfnQ72RwkQmmO64yHClCKBsG9AWKn/3S/8laAM8ZLcFMyxPakmjUE9YEG1JWxiN0YvMYBF2AWyhDNolt8cyI71H+jrs0nifeOolh0UjIXOgnOXQuWNBHFLnOAt6obbMOY+2Wo3fPh/9fvGi8DTneDG886B7843t+drOSo9JJqwyJSk8Y4LSy6ofT7vhkY7vUrP43HqzPL8+/MxsfbvJ7tY/7exaHKvLmy0fvnmYJcJXhum/ri6fGedfzPIrtE4zz0OXUAI1yQVcQVnOdCA8kiuwFUrR6rXwoWy7odpxueeMCJYYWEMbS/J3XvkfDTVxBjBIgVOWURiwgiyHReMtaEN2TmhjGoJWzh3CFtArwBPm5K6D57Cg8fthfD1qcv4GIQMp0gYATMCHIhOmxDwlUrPthEmoINzdhPcKuV76OzkZYbGbVTtuNqa0HvuLcXQpH3tat/3Dq/7eSX++6c/qeHC9SI+iln0Y7j6Ln9xZvIhb785fyf0z/s3Vor427D8uc5f6pt+75PGztD/z1QXx8+KEqztZ7lmfJFcwjoimhNpAGD1JpOoKeFmyZ2W7DX7qAmIyG6K6Jm2ugrz65f+eZB90RHwAI1BOCKRb0AJYgRmogIosqbYsHexqG3wux5A9cEB6MIznjBq0w+7YuTnbfQt/runKMCE5IpOQetNL6DJBnX8hl+u5zIhAaPaz3NNlQZfvNhe5mx8VL+94EhpLhqO0I3NPmRCaIV939eUYOYsa7LVhO72elXOJbZhxNw2fjw9Ppl8N5Y7Mj7LzdvDHce/bpU6j21JXpeLlzC/I3xTZZTpgcZQeqRsYN4mOGAE0EXM8Dlo8pnGqbp9pxyfTsAqSKCNc3u1tUHn1y78EBJAD1+BD0AF4Fxae7ioSBtgSdAG9MnT9OHj3XJFfh3i1PiVjueXcdEwXwmsNC+aM+BpntwxtN/xJCn9u5DN/m90toiyls2Z4nWQi7mWywvScyTzBcbUaV4ortSxqn8mkdmXlaJrVpStzrqeyd5jtvFBnVd7llv2Ng+M7u363c8c7RTrLa+w/2lxNjtfaav614pCzoVLXaTaQbm0eOPu8EyWdk+VAKZLT6WkXr0xvk+wIC6gUIhqT5UvzGZGSCLlo2mhT4/xR/2Q5rjdBXv2J/wHsYS2sBQzkkQRyDOzACJxBGwBgR5Q896YPSR+lNLK7I5LDLk03LBOmPc4OQB3sErYC8tzf9m6P6SyN3yFdQg7JPT9YqWnl8YS5FLqVLAvqmIqMi1UIy3jZpe1p92AZT+Z+L5PcudyROUbOlEkzzfVoj3ePJR1R/ZLnK9TnJSuSXhaPuyxgctu7CTchlc96XNpmFeeDl1uObwnYeMeRJwNooDdfXx18rvSHnhzBExFDzBVGTMNVsCasN2F7GS4sXT3qZzP3p99ayauv/FfgCbgAe9iAuFJKMaxFdg17JHdg14E9WKXGIDA1IGPuCZeWNkQzdjeIGHZh6ZQ0ATNQBdtoeieEu0PslG96V1J6V9ODQm6yexmYqF0xrYVm3t9kTJgrs+SJ1qldRX3cLx72JwNt+rElE8IsqN+GdBVszZ0l7RdxLVHm3D9qQhcykilikcNdY2dME9nuaX3BodOqc9hh3AZyopppaymkYpDjssivZVyCCiZmM/UEKqATdJXGuazeGzqvILMe/+AfPv6139g4Cw9TWjvZA2WwDEzMAG3I7gHeRlOrjArnPi/kzTrTi374gcfS8Rq2hZ2bwnhGtENyJ5mRniMtVTfQkPl9b7EL3+1iMsuZ9xz9QeauGV8nes6QSO9qusdUOPGlO27DRpETGsNll12ccHMKppai+TDNPoujUdc2s4dNOth1uxsMj3TiGPWqGmtmoiPmBDtPNrXuJWCGcs+lRv2ScGVaEzMILGtjBl93FoEFUQ1tApKFHC6BOkiGh+1Iuwbm7/xg8w//3unFeRWUHLk8xQvWM85ugB3S1mJkyoxnZNGkEd0oCHFIyFkmyWZl/ddteAw8JjzWdEnawM7BEebYqiHkne06+QnPMOtiekgUABTOrYd70fosTnO3m8k15ttwR2zXiLbQUyhXrniuNkLZxa/06XBlj7tJ2836ouOI8HDvbpdSfehnX8nJyD0k662ayHY7mxYVv7xyX3W2jNSivuXawraxL/bFzNDALoluGMFQEzUUxpF3vRBjl0AgsriKPOFQkbapPUvVDA3jN3/z9P/8PxpO8zFdResp/eJbIA8kgKGJEJUS4hm5KbSHKVCCK8CQ1sa7XQyVXAOXIIAUtrR0j/Rt0BI6wAC4EFZ9Amie8FyevZTJtT5eNePbjMbhXGjd6YZ4LOlIsePkuOAjYk8YzFZJl0n7p7/MeA59vN/ohfrNeothsh2e1WGpzU/Zzc/Xx4cF/1ba/GGY+nr+MuxloTnsPBI4Drb5WYS34+7oxDPfJRw6vAS7jlQaMQ2nUT0EdDEErdkI4TJ4paFifxJ5gzOLf/9Xn3zrG2Cet+EECABR+vk/MiOSCdweKCeKmhoND0RKkFhcjanLJYebg4jImwHaAJLSgRl59r2OTsxRb3YGLKBXsAaWzFh1NEsAktat7jU6622244qp67xchvRoM1wQ+UymlTtkvkbuWkpdVIUtBY+AnrmCaUzvGvlkfi331+O2Pgz8eepeRPjjcVey+cb7FxzfdhgI99TumS2l/blhPLDdvKR9tgfR1sZ3MrwoJgmjbvvYktKAqpAm6UUXxkGnPdmE3/jD1YPz4Z/99tX5upbo23gO6PsnVlZ/+w9LEedr0x4yAZdQByZoC90QmSHBRoBMhzb2VXaN4IBEGEw7wKlcC9FnxESuictg69pPfDoBNZouoYnEqS66cLWNg+OZl4NVqL61enuSPfe52Wcm3LHezaXJ2Ceaq+0CmWPfxdVofSmD2SPBYjn2TD5a5SgrfdvTMmDjDzDdE3+c2yFTb/pGshPl5KD7obiiv2buOUe7bMbYBCoYBx5FMtPzq15rKsBXp0PXJJvypk8+2R/8/ub3/sXFoyvSJKVU6/dJfXC8p/1P/2yIYyZ83j26MX1eqDJ0LIUZgxjw0AG0gW2BYAbStRoxCWQOCyDAAriGMcBJ8/NhBR1KLqMKYBNBJiNhYziL8bzXsyasCp5msrsY2ydDW8rkVvXMNCuIB5COoXvSdk5uOCqmPhE5pp6xGtOo2meyO+pM7W6X7jEpuM1rTJ5xvC82kJ2lYaT8WaEOuCs4HuhzHi84TMgyQIgcwalaulwPKKlfJSVctGPTpW9+c/v7f7B550FHUCDzlPVpbR9o6qk5T03EylB4N3vt8s/2q5uH5c3KPChCW7gMNpgGoh0okavBW7Y1dKvpjIVhGZAjGWQK2jo8Oi57MCw1q+HSqd8GjWNpmGfy5Vxi6ZZVPkDPYzzb865kibYmfYssMzoGnJfsRmX3tu8S7Wfkp1nOpKqScWbETE7YhfRstBD0noe0rvM3OD9k6oHK8o60VBwY7qjs5Hh6jCSCJoQSVik8glk2d90q9rk+OOm++93m1//56vGTJlkCmMBMqbPVx0gBoPV//GsFl6ChSwko3m4vVmH1U/t/U4gZgcUxGRDJGkNHUNDMwGQenBllQIA1ZmvEJXlG6kLENoTdch8ALIHMdG2JiKdjGi6GCzGq3I6Col2aXjE1O3nJ/rolz+zNInTs4sasDdYXnEwqwyyjY7KlolebgGZtSt+3f3pwuCj35ea/N2WFttZ3UQ6YbwgcfO1IGBmpA03FEJugvuTG7M3729p4WIz3Trp//CsXb3xvHGL3/tFDY4Ph/ddHMD09PPGDn/vlSpwjYoSZh4EKqUhEkyr8KowTt++pghTJOucKZob1hghK4Bqag6dAQlohXRIiiBQtWQNNgIByUCLzhgraRx0YOqRO7aoQJ6yGYKDROOOMZdd4j5Q1UZ/M01LxHrgdQoSidD7YNGrVSqs3fjB5bkH7yHbF9UwBKwt8zNULmZtKukiSCe2xOiNHJgDRej0Gs4FwftY/eaft+vRP/p+L7/x+kzSYPcUhZvr0E4k+csDzh2GoBqEs2NinkVBkrBmNwo55ZGv2Mxf1gZmx7jmaUCLTAiggDqppvBBfwFqYgQsgN2OoEu2BZ6ARxEgd0UwRiEBcihZIVxltW5WoyWxkYXbXCggQYFuKa6MZyOVCTJ7wQkxbh0ZkvQrblt6y2ZU/aHmP0rHPiO1t1U7TLopbbBXHRdJz9ZUbYuxKmsydC0ZGaUwuWLcNHeN8EzzRnz9s3/hBo+jVCCaMLOrwlNRH1fQjsFZxXCUWYN/vdNoAeZcqTYg6TJw4SQRjYUoXiiW5KVlpvAsUMGKaIPYk0QjQBShBCiIxHaECLsAEC4bUx8uCIqAEVQTi3lvXp7GQXbIKBmg0eDJWwGwEArGHnUY9SWl5EVYhuaOi6nXBodcFtttx804nJefGskdpTtRTajgJTWd+IrGN+uBkPJb6Wu7KnvqzgZnruRv69JmD/HHidx52OQUp3bYpDZx0UI0fRWNmH4dVur2L8eq8f2MsP7cKp0f5tefqGwXraDFYppqStuO4qqR0UhByWIQ9Js0hO2APmiJtgREpQDwSDInImXWgAmrGNUHL4jY0IjYpnTJtzFaCfuJ3mEW1aYYzz4WX3DiDKVkcU6mpCHakOFCzjDcFXYzaZWqXaK7u9HxAu3uFT5SCzuf54PRq0RPptZuTo+OCE1lmN6zikmPQYRvaTuuM4kKPane26B69u0nLGBtbrzOCOM7btPhk3H0cVjs+mHFeV3cG5TvVc570YXu/cJMp21bXB1mWuazgmeqYUsfMIKLERgPsjCwzZlAGDaCCEhkI1JhpTKNzNaAMMkspXQAToYxpL6Zxk7ZzP4eNsAWTr71P1sW4dD5nqErmuSMkxKiqPV3lHNp4ufbnXTa+Vyz5vrfv0FvPXWY/UfprPL9BpePnf3K6m/vW80PVg15zFhYaunjRhmzQfkyq2DUXt9GN1N+N3/nm+upKgSQ0tHFh+LiOPgzDDyXmkm32XK1wTWxU+yI/cuzW4exq/JNn6ztmBym519dv3C53al+bjdtxkbN63iEtITUsM22JAIJRghooA1WO59AOZoYImZIe9eNZwT1ZI4QcdR8azy5Zzzw6PyPzTgpYNAtIfdIh2Rm4TzkS+4UmV8fl3naxTLePqksXz740Ztez/ZznncMiTY/cponbqfPQ4Gw1g6W03oas9t5jb6dYnPT5jB+cdFtLr32/+9/+0b0n60SUiVHQ5pNVwkcZEdFTX56dHzuMXVoWHEvxJceMtgVnE78fjINal4ZgK9VNp6O3Mej0YtiYtQyNsUk6OBqAHkiAASN0AHqCAgY11ZGsJ70SdsxHMdVN6jIeYXkbu6APh7TaxAv1Zws8bukqpsH52JmGNJpJ1HaD0zA5G/ZXxXMu3tLTeph8Mb/5ldnNF+vnPzO9fphNrufn97uh136Ii2RLsr6L9x50+54nOTuFZ55NRWvKevrlf7n8X/7ee5s2mbLjSbRWNdgH9qmp6kFdgHcAAAjrSURBVIfUDg8On8n2//ru116q9p8pZ4fZZOr3Stm/HF6DudJNcyZH3TpcqHU5+0z2PU1rt28gM+cli3ruOGVCigFP9+nYjVGdm5AUSTemjXcFlDS1hoLoEJBkY0h31+OTYJtB+0s+Je6vbDwPffRW1X6PKjPfWLNfewsJhzR7LitKqTKvotMv5MULGVcy9vbmupcngYJurrk84yfb+FyDeSdlQeVtj4xE2I10ctr+z//7w6//3+chBGRTFyRqE1P7qVXCpxrtHx8S1KE8kskXius/u/fKi9XeXlYJNZ4KEKK2jvSkezLaxXGRlXRT5Fkzlwt56hyXjgazynEZLfPsR12ank6zXSJHLIBT3RIVMS6C9mZOURHvZZSBMsOSbEi6adP51Xiqolw0Y+ZbjUH7H6y2N56B3wft8MvPT6vCSUEpGpLVt/NwgPfi0DL5jCetPuziIJQTPqtZdQ4kGijSS64no8vUn8X/9dfuff23V9jb1W2UJhuHq/R0E/jT8tSnmhRFgUyUdDNu3ugef2P59tvthVpmoG28FLI2jUSFZwZfjNz38QXFxFHImIgo54vl2EQLgq7g1rvA5IWKMbFwRjCYtqFl7ZJ1qs0mXTTxaoiXSR8k20Zt1MKgG0eWC2py45BhrGpMJdJhJQcV7U7djf2iFqmjK8AX5/3vv3k5nbj1JoZg128VPtjD7bglHIt8bVZVngdLa45DZlnN4+Pwa19//Mu/+vBf/MGi78y2CaOE8SpZ9+Mq6oewstzGZDFCmY0GG+/3Z3+0fPO19d2LYViFcdA+aLwYFmfD6sF4zLavtjWLm5Qn002gdVS1bbQYNXqIWUjWC49MwVRV+179OtJobhNpG6VL61bPAq4ITc7kaJNwEbFQ69sovVZA3tlZPmvluKte9rPn8vmtqqgzf5BJzlf9OHssClNv5e1sOvOXTYjCtwIfKp+vB9n3tEVSm+641f3hd37z9J/89sk3X98m5CyFaUhhZRb/7Ww+YQ6AmRGQPhhvhp6Gd8LFu4uLg9X0pfL4J2e3aulXUSdunJdnJVeB9+cOfVqtw5nZRn25ja5N7WH+Uu12FuPqvfbdL80/70jJ2m3amqVkdjGeB1oUPnbVcDjN8tiRrULvS66DZq3NmQ+b8LgNJ3H38vhL7uC4rA5dsZtJ7kK0dRvOv7dhM1lbdxqqzxerEPOQlqPdzqT0OD/p6hv5g2HcFXUF/eC7q9/6f89+9XdPL5Ym8IqYYk8fqdH/qiZ5nn+i0czMVE21l+HRcPHtzf3vb6/eaq4e9YtH/UXBUyDmTE3cqA3BeBlOpz6r5IVkLmibuerZ8nDU81FXzNKkcZPW58OVUZtsGE2FKEY0IS00tm4YXT9M2ia237iw/2vxx++V93FDS+LsSGY38oHx6KJ5NOv7zzjNLJzGe2Onz/L8i9XOzL+zGncrmRtdXQ5l5RxRTeia9Np3l3//H937+u9dbAdHSoqoGmDJPmF/NWV9SOiTjgYw8+jojLeU8dnYnDbLy7D9wuS5z01uOtKc+Ww4UzoDbh7madQW1te+7AAGA3mvlPHOoJq7fDGeAtQjjjJWORWD94hCHKzfLf1yGX53+/o4aQouz/6sm33VVTE//dZVkfEh5Z99fpJM7rbNlqM9S8/9B7vjanyyTDxxvk+nlylPaFklWfMwfPu1xT/4lQdvvh1AXq03TU9rpU/N3z8+L5rP509n+RjmD4sOIoAYBDKwmHhyJH1Pc6m/Uj//03sv3cq6iZO535n5KSwRYUi6TX3OeVL0Oow6MnWjjpsYLsL52bBeSbtTcMUuiy4dpsB2+7B8cnf4pw/OvvjCpL6iOfmvfXl3CHp4rfzSl+bVTK7qeP/dTbPPt1+o1ZHfFY54Zz3s5uI6TcuQV46NTh623/3O6ld+/eThgyDsx9Q9Lc1//PrgL7EfhuEnS7If+mYfhCYAsjJXUBeae+OTP16/+d3tk7vNehl1SOOgieCYLOehFDGKni1nHdQ6LUaNTfSbVF106X63PEe/2UnfXW87ivM9f5KGezZOdyTfkdV5PEI2XLnI1Fbjaw+Wl9txdqu49TPzcsevTEO0hVkEqk6zpY3AKurrry1/7dcf/+PfeHy+pBzloP2nluafrpoPyvR/O6yPkfqLqlgCTBG70UIwNVNL0MbF9+L2W93jf3X1zmurByf9djUuEihn16RuTFjHngDPB9G4kMNCDvZ8XYJS6HoOO3d8Uttk6btLSgfzF//DXZrQvcfrspAvzT/zzctNdmscN3r9C5O9z5brjN5rwzIqCnnvcvCw8WzsSO8/6V7748uv//PH/+bbzaieJYuhVUQi/EXR91eyp5O4j2L6ZDB+eN/7PoCP9SYdu5GEJZ/2Fb87rN/d/rksueDswPljt1uwvjK947mdiCgw89PKzYOilHWZ2kVzvjkfi7k7ubd9pDt39vuyng45jTfcN1ab+X2+8e+EzNGbq/bW9f3vjuP6sW1gO166QXOmq4etX6erJ/1777W/87tnp+c5sol122gdTIno6cN+qmSeLuqjXwA/ueSPxZnkef4jTZ8g+mNQh6nqOGjfWQwAID6g23h7OJ7f65bf2Zx8a/vk3e6yi8MqDq1i5vKCXZvorNk21m27sErWV9Ouqi7vrd12GKfuYsiOl+I/s75YDm1t+fX8rdWQChmD9W1CsLQcT++3p/ea731r+c9+62K5FEsxjQ0s/CVq+nHC7RMLfP9+ybLso02f3Jf4cSZ6+gc/elp0JNU4miWzxIUjETXq0rjQ9QM7f4jFxbgN48VBPsllvo16f7lcbnRhlB1el+m1tPvc2R/dnd1ym64o7p0NLjY1vvi3b02ZYib9mGITr5cuPuge3Ns+fqf55jcX/+aP+qBe45i0N9MP9oj/f8D0F8L65NQ/5lwfPsSPDDFYNMCkyOCT5KaDpqTBhgu3fheX97cPj92u0uwixZbykJnMptUzN8pnjjcXsazXsU9HY4g13PPldO6XTzp2jKTnV+O9P7ta3G1jk/7175299WaCZSls1cLHnvxT0fz4vD5ZiP1/YmPqSlVpVlsAAAAASUVORK5CYII=</thumbnail>
+                <duration>00:01:36</duration>
+                <codec></codec>
+                <resolution>1280 x 720</resolution>
+                <userThumb></userThumb>
+                <poster_url>https://i.ytimg.com/vi/-97oh-akajc/maxresdefault.jpg</poster_url>
+                <id>-97oh-akajc</id>
+            </Image>
+            <Image>
+                <url>/Users/michielk/oxdox/brainart/OHBM2017/KleinnijenhuisM_CenturyOfBrainMapping.jpg</url>
+                <title>A century of brain mapping</title>
+                <description>One of the most iconic images in the history of human brain mapping is shown together with a modern subdivision of the human cerebral cortex. The new model of the brain casts a shadow on the old description, while the old scheme is still found reflected in the new approach. The old map on the right page of the book was created at the start of the 20th century by Korbinian Brodmann (1909) by staining brain specimens and identifying 52 distinct regions on the basis of the layered structure of the cortex. The wireframe over the glass-brain model hovering above visualizes the 180 regions of the right hemisphere derived by Glasser and colleagues (2016) from a combination of MRI techniques using the many subjects of the Human Connectome Project. The colour scheme indicates what functions the regions are involved in where red corresponds to auditory, green to sensory-motor, blue to visual, while moving towards white and black indicates involvement in &quot;task-positive&quot; and &quot;task-negative&quot; brain states, respectively.</description>
+                <filesize>7428687</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/oxdox/brainart/OHBM2017/KleinnijenhuisM_BrainWaves.jpg</url>
+                <title>Brain Waves</title>
+                <description>Brain waves can not only be found in electrophysiology, but make their appearance in neuroanatomy as well. The shapes found in the brain are mostly curvy: from the cortical ribbon, to fibre trajectories, subcortical structures and ventricles, etc. This image develops these curvy structures into a wavy brain image.</description>
+                <filesize>4298284</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/2DEM_001.jpg</url>
+                <title>axons in shape</title>
+                <filesize>706020</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/7Tss.jpg</url>
+                <title>corpus callosum in red</title>
+                <filesize>1355248</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/0250_m000_seg.fw.png</url>
+                <title>fibre segmentation</title>
+                <filesize>4747459</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/brain_rainbow2_crop.jpg</url>
+                <title>rainbow brain</title>
+                <filesize>42997</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/fullmodel0001_exp.jpg</url>
+                <title>bending bundle</title>
+                <filesize>798788</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/stack+particles_crop.jpg</url>
+                <title>particle cube</title>
+                <filesize>280774</filesize>
+            </Image>
+            <Image>
+                <url>/Users/michielk/workspace/www/dev/gallery_ws/selection/tracts_crop.jpg</url>
+                <title>tracts</title>
+                <filesize>49782</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

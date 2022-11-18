@@ -1,0 +1,32 @@
+Segmentation of 3D electron microscopy (SBFSEM) data to perform realistic simulations of the diffusion process in the brain.
+
+Detailed fibre arrangement are revealed with polarized light imaging in order to validate diffusion imaging techniques.
+Unraveling the mesoscopic structure of the human corpus callosum with polarized light imaging.
+
+Creating an atlas of the cerebellar peduncles with tractography in the Human Connectome Project dataset.
+
+Investigating the mechanisms of diffusion restriction along axons with MRI, simulations and polarized light imaging.
+
+In this project, I'm developing MR methods to characterize plasticity-induced white matter changes.
+
+Validation of the biophysical diffusion model NODDI and investigations into fibre insertions into the cortex.
+
+A project to parcellate medial cortical areas on the basis of the layer-specific properties of the diffusion signal.
+
+Comparing ex vivo scans of the cerebellum to histologically stained and reconstructed section of the same specimen.
+
+Creating teaching tool by means of plastinated white matter dissection specimens, combined with tractography images.
+
+Identifying cortical layers (e.g. the line of Gennari) with diffusion imaging in human tissue samples of the primary visual cortex.
+
+In an Alzheimer mouse model, abnormalities in diffusion images were demonstrated in the white and grey matter (hippocampus).
+
+Development of a tractography method that incorporates the contrast in high resolution structural T2*-weighted images.
+
+Methods developement for sports training (e.g. golf) by first identying the optimal EEG-signature and then providing neurofeedback to train the brainwave pattern.
+
+Building a brain-computer interface operated by EEG-signals: the sensorimotor rhythm and slow cortical potential.
+
+Investigating the relation between sampling rate and localization of epileptic foci with a high-end EEG system.
+
+Hardware and software development for a scanning stage used in photoacoustic mammography to detect and monitor breast cancer without using X-rays.
